@@ -172,6 +172,35 @@
          },
       "serving": "2 serving",
       "Extra": ""
+    },
+    {
+      "name": "MILLET KHICHDI",
+      "image": "https://divyanshu-950.github.io/recipe/healthyrecipe/img/khichdi.jpg",
+      "description": "Indian Khichdi is one of my favourite comfort food. It is an easy-to-cook, wholesome, fulfilling meal that takes less than 30 minutes to prepare. You can cook it in a pressure cooker or an instant pot.",
+      "ingredients": {
+        "1": "Millet(Jowar/Ragi",
+        "2": "Lentils(yellow moong & pink masoor)",
+        "3": "Spices(Red Chilli Powder, Turmeric Powder, Garam Masala, Cumin, Cloves, Whole Dried Red Chilli)",
+        "4": "Cooking Oil",
+        "5": "Other Ingredients: Onion, Tomato, Ginger Garlic Paste, Asafoetida (hing), Salt, Water, Coriander Leaves"
+      },
+      "time": {
+        "preptime": "5 min",
+        "cooktime": "30 min",
+        "total time": "35 min"
+      },
+       "steps": {
+        "step1": "Rinse the millet with water. Transfer it to a bowl.",
+        "step2": " Combine both lentils in a bowl. Rinse them with water, then soak them in water for 15 minutes (optional).",
+        "step3": "Heat oil in a pressure cooker. Once hot, add cumin, cloves, dried red chillies, and asafoetida. Saute briefly to release the aroma and infuse flavour into the oil.",
+        "step4": " Add onion and saute them till they turn light brown.",
+        "step5": " Next, add ginger garlic paste, tomato, salt, turmeric powder, and red chilli powder. Stir to combine. Saute the masala till the tomatoes break down.",
+        "step6": "Add soaked vegetables, millet, and lentils. Saute for 2 minutes.",
+        "step7": "Add water, mix, and pressure cook millet khichdi for two whistles over low heat.",
+        "step8": "Once you open the lid of the pressure cooker, add ghee, coriander, and mix one last time. Millet Khichdi is ready to serve." 
+         },
+      "serving": "2 serving",
+      "Extra": ""
     }
   ]
 }
