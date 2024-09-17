@@ -1,0 +1,160 @@
+{
+    "articles": [
+    {
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "author": "Stephen Warwick",
+      "title": "Apple Watch Series 10's biggest health upgrade clears a major hurdle ahead of release",
+      "description": "Say hello to sleep apnea detection.",
+      "url": "https://www.techradar.com/health-fitness/apple-watch-series-10s-biggest-health-upgrade-clears-a-major-hurdle-ahead-of-release",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/RZzMVnSa9ptzVgYLLKwkha-1200-80.jpg",
+      "publishedAt": "2024-09-16T16:04:28Z",
+      "content": "Just days ahead of its full release and hours before watchOS 11 is released to the public, Apple's new sleep apnea detection feature for Apple Watch has been approved for use by the US Food and Drug … [+2133 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Georgina Torbet",
+      "title": "What the Polaris Dawn mission could reveal about human health in space",
+      "description": "The Polaris Dawn mission was the first spacewalk facilitated by a private company. But the real significance of the mission is to study the effect of spaceflight on human health.",
+      "url": "http://www.theverge.com/2024/9/16/24246149/polaris-dawn-spacewalk-spacex-human-health-astronauts",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/oX0pz5-MW4QcTYGegdmNBkcb4SQ=/0x0:960x540/1200x628/filters:focal(480x270:481x271)/cdn.vox-cdn.com/uploads/chorus_asset/file/25623944/GXTYzdpW4AELqaE.jpeg",
+      "publishedAt": "2024-09-16T14:28:12Z",
+      "content": "What the Polaris Dawn mission could reveal about human health in space\r\nWhat the Polaris Dawn mission could reveal about human health in space\r\n / The Polaris Dawn astronauts have returned to Earth b… [+7319 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Nilay Patel",
+      "title": "How Philips CEO Roy Jakobs is turning the company around after a major recall",
+      "description": "Why Philips is focusing on the future of AI in healthcare.",
+      "url": "http://www.theverge.com/24242833/philips-ceo-roy-jakobs-ai-healthcare-fda-cpap-recall-decoder-podcast-interview",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/dy6bkVgk44DfM9VwjPiPOtsntPA=/0x0:2760x1839/1200x628/filters:focal(1368x830:1369x831)/cdn.vox-cdn.com/uploads/chorus_asset/file/25617349/DCD_Roy_Jakobs.png",
+      "publishedAt": "2024-09-16T14:15:00Z",
+      "content": "Lightbulbs and electronics defined a century of Royal Philips. Can AI and healthcare define its next era?\r\nByNilay Patel, editor-in-chief of The Verge, host of the Decoder podcast, and co-host of The… [+62692 chars]"
+    },
+    {
+      "source": {
+        "id": "time",
+        "name": "Time"
+      },
+      "author": "Matt Fuchs",
+      "title": "Do You Need to Take Electrolytes to Stay Hydrated?",
+      "description": "Relying solely on plain water can lead to health problems, experts say.",
+      "url": "http://time.com/7020001/electrolyte-drinks-hydration-benefits/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2024/09/electrolytes-hydrate.jpg?quality=85&w=1200&h=628&crop=1",
+      "publishedAt": "2024-09-16T12:00:00Z",
+      "content": "When people are strong and reliable, we describe them as solid, yet the human body is about 60% water. Lets face it: even the toughest among us is less like concrete, and more like a walking water ba… [+10528 chars]"
+    },
+    {
+      "source": {
+        "id": "news-com-au",
+        "name": "News.com.au"
+      },
+      "author": "Blake Antrobus",
+      "title": "Beloved Aussie charity guru dead at 40",
+      "description": "The beloved founder of a charity which helped thousands of Aussies struggling with homelessness and mental health has died age 40.",
+      "url": "https://www.news.com.au/national/western-australia/scott-johnson-founder-of-perth-charity-assisting-your-life-to-achieve-dies-aged-40/news-story/1e88c1881c7142ec86533f84fe17b653",
+      "urlToImage": "https://content.api.news/v3/images/bin/76164c3469d9c01e94f2c74b49f94010",
+      "publishedAt": "2024-09-16T11:59:00Z",
+      "content": "The beloved founder of a charity which helped thousands of Aussies struggling with homelessness and mental health has died age 40.\r\nScott Johnson was one of the co-founders of the Perth-based charity… [+2346 chars]"
+    },
+    {
+      "source": {
+        "id": "news24",
+        "name": "News24"
+      },
+      "author": null,
+      "title": "News24 | After collapsing during speech, Mashatile is 'in good health', according to his office",
+      "description": "Deputy President Paul Mashatile has been given a clean bill of health by his doctors, his office told News24 on Sunday.",
+      "url": "https://www.news24.com/news24/politics/after-collapsing-during-speech-mashatile-is-in-good-health-according-to-his-office-20240915",
+      "urlToImage": null,
+      "publishedAt": "2024-09-15T17:09:53",
+      "content": "Deputy President Paul Mashatile has been given a clean bill of health by his doctors, his office told News24 on Sunday."
+    },
+    {
+      "source": {
+        "id": "medical-news-today",
+        "name": "Medical News Today"
+      },
+      "author": "Kelsey Costa, MS, RDN",
+      "title": "Low-carb diets may support heart health, but how nutritious are they?",
+      "description": "A new study argues that low-carbohydrate diets can not only meet, but exceed recommended nutrient values, and promote heart health. But is the research biased?",
+      "url": "https://www.medicalnewstoday.com/articles/low-carb-may-support-heart-health-but-how-nutritious-are-they",
+      "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2024/09/seeds-granola-meal-1200-628-facebook.jpg",
+      "publishedAt": "2024-09-13T11:30:00Z",
+      "content": "<ul><li>Due to their restrictive nature, low-carbohydrate diets, which provide less than 130 grams of carbohydrates per day, are often viewed as nutrient-deficient diets.</li><li>However, a recent st… [+10320 chars]"
+    },
+    {
+      "source": {
+        "id": "medical-news-today",
+        "name": "Medical News Today"
+      },
+      "author": "Yasemin Nicola Sakay",
+      "title": "Toxic metals in tampons: Should you be worried?",
+      "description": "This podcast episode investigates whether tampons and pads pose a threat to health after a recent study found traces of heavy metals such as lead and cadmium in some menstrual products.",
+      "url": "https://www.medicalnewstoday.com/articles/toxic-metals-tampons-arsenic-lead-should-you-be-worried",
+      "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2024/09/facebook-inconvo-toxic-metals-tampons-1-1200x628.jpg",
+      "publishedAt": "2024-09-03T15:42:07Z",
+      "content": "Arsenic, cadmium, cobalt, chromium, lead, and zinc These are just some of the metals a recent study found in tampons. However, not all of these metals are innocuous, and some are quite toxic to human… [+1807 chars]"
+    },
+    {
+      "source": {
+        "id": "recode",
+        "name": "Recode"
+      },
+      "author": "Celia Ford",
+      "title": "Phones and mental health: What if an app can tell you if you’re depressed?",
+      "description": "Emerging apps like MoodCapture use AI to guess when you’ll be sad. Can they also help you feel better?",
+      "url": "https://www.vox.com/future-perfect/24150430/depression-detection-technology-ai-tests-apps-mental-health",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/sKqyLa2kPkjuiUjAhCZcLqm3CvQ=/0x0:4590x2403/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25435888/681977094.jpg",
+      "publishedAt": "2024-05-07T11:30:00Z",
+      "content": "If you have a sore throat, you can get tested for a host of things Covid, RSV, strep, the flu and receive a pretty accurate diagnosis (and maybe even treatment). Even when youre not sick, vital signs… [+15415 chars]"
+    },
+    {
+      "source": {
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "author": "Jennifer Bray",
+      "title": "Abortion rules should be relaxed, review to recommend",
+      "description": "Minister for Health Stephen Donnelly considering report by barrister Marie O’Shea which examined operation of the existing law",
+      "url": "https://www.irishtimes.com/ireland/social-affairs/2023/03/29/review-calls-for-abortion-law-to-be-relaxed/",
+      "urlToImage": "https://www.irishtimes.com/resizer/DycgF-s39PfaIVo4cOhhhNhDjqM=/1200x630/filters:format(jpg):quality(70):focal(1109x649:1119x659)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/YVVSZCLNN6CW4NWJKGEPUSEAPE.jpg",
+      "publishedAt": "2023-03-29T04:15:00Z",
+      "content": "A new review of the States abortion law is set to recommend a loosening of existing rules which could involve the removal of the three-day wait to access medication.\r\nMinister for Health Stephen Donn… [+2934 chars]"
+    },
+    {
+      "source": {
+        "id": "the-globe-and-mail",
+        "name": "The Globe And Mail"
+      },
+      "author": "Wency Leung",
+      "title": "‘COVID hasn’t gone away’: Five things health experts say we must do to end the pandemic",
+      "description": "Boosting health care capacity, encouraging third doses and better understanding long COVID are among the issues health experts say need to be addressed",
+      "url": "https://www.theglobeandmail.com/canada/article-covid-19-pandemic-not-over/",
+      "urlToImage": "https://www.theglobeandmail.com/resizer/nYUYq7AN4xv1_6tgavE1CKi6OvQ=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/OSOQKLUMCZEDDPFOKUWLUFOLFY.png",
+      "publishedAt": "2022-06-15T17:00:00Z",
+      "content": "Restaurants are open. Festivals are back. Masks, for the most part, are optional. And starting Monday, June 20, proof of vaccination will no longer be required of Canadian air and train passengers.\r\n… [+7848 chars]"
+    },
+    {
+      "source": {
+        "id": "rte",
+        "name": "RTE"
+      },
+      "author": "Will Goodbody",
+      "title": "Efforts continue to assess extent of ransomware issue",
+      "description": "Efforts will continue today to assess the impact of the ransomware attack on the Health Service Executive, healthcare facilities and services here.",
+      "url": "https://www.rte.ie/news/coronavirus/2021/0515/1221735-hse-cyber-atack/",
+      "urlToImage": "https://img.rasset.ie/0016bdc3-1600.jpg",
+      "publishedAt": "2021-05-15T06:18:56Z",
+      "content": "Efforts will continue today to assess the impact of the ransomware attack on the Health Service Executive, healthcare facilities and services.\r\nThe HSE has said it will take a number of days before i… [+1264 chars]"
+    }
+  ]
+}
