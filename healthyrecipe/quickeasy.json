@@ -2,7 +2,7 @@
   "recipes": [
     {
       "name": "French Toast",
-      "image": "https://divyanshu-950.github.io/recipe/healthyrecipe/img/frenchToast.jpg",
+      "image": "https://divyanshu-950.github.io/RecipeAPI/healthyrecipe/img/frenchToast.jpg",
       "description": "Fluffy and tender on the inside and perfectly golden-brown on the outside, you'll always get the perfect French Toast with this recipe. You can make our quick and easy French Toast recipe with any hearty bread including sourdough, challah, or brioche. This French Toast recipe is fuss-free, making it the perfect breakfast for busy mornings. For more elevated options, explore our stuffed French toast, overnight French toast, and cinnamon French toast recipes.",
       "ingredients": {
         "1": "⅔ cup milk",
@@ -28,7 +28,7 @@
     },
     {
       "name": "Omelette",
-      "image": "https://divyanshu-950.github.io/recipe/healthyrecipe/img/omelette.jpg",
+      "image": "https://divyanshu-950.github.io/RecipeAPI/healthyrecipe/img/omelette.jpg",
       "description": "Basic omelette Recipe",
       "ingredients": {
         "1": "2 eggs, beaten",
@@ -52,7 +52,7 @@
     },
     {
       "name": "Potato Poha",
-      "image": "https://divyanshu-950.github.io/recipe/healthyrecipe/img/poha.jpg",
+      "image": "https://divyanshu-950.github.io/RecipeAPI/healthyrecipe/img/poha.jpg",
       "description": "Poha is flattened rice that is steam cooked with onions, spices and herbs. The word “poha” refers to the flattened rice itself and as well the dish made with it. These flattened rice flakes are also known as parched rice or beaten rice. They are considered to be nutritious & wholesome as they are got by minimally processing paddy.",
       "ingredients": {
         "1": "2.5 cup Poha (flattened rice)",
@@ -90,7 +90,7 @@
     },
     {
       "name": "SCRAMBLED EGGS ON TOAST",
-      "image": "https://divyanshu-950.github.io/recipe/healthyrecipe/img/scramble.jpg",
+      "image": "https://divyanshu-950.github.io/RecipeAPI/healthyrecipe/img/scramble.jpg",
       "description": "Fluffy scrambled eggs on toast are deliciously soft, custardy egg folds cooked with cheese and enjoyed on top of a crisp piece of buttered toast.",
       "ingredients": {
         "1": "Bread",
@@ -118,7 +118,7 @@
     },
     {
       "name": "EGG FRIED RICE",
-      "image": "https://divyanshu-950.github.io/recipe/healthyrecipe/img/frice.jpg",
+      "image": "https://divyanshu-950.github.io/RecipeAPI/healthyrecipe/img/frice.jpg",
       "description": "One of the best things about this top-rated dish is how easy it is to customize. Whatever you have on hand goes — chicken, shrimp, salmon, and kimchi all make mouthwatering additions to fried rice. Play and create one-of-a-kind fried rice dishes whether you're a vegetarian or meat lover.",
       "ingredients": {
         "1": "⅔ cup chopped baby carrots",
@@ -145,7 +145,7 @@
     },
     {
       "name": "VEG SANDWICH",
-      "image": "https://divyanshu-950.github.io/recipe/healthyrecipe/img/vsandwich.jpg",
+      "image": "https://divyanshu-950.github.io/RecipeAPI/healthyrecipe/img/vsandwich.jpg",
       "description": " A simple vegetable sandwich for breakfast and brunch that you can make under 15 mins. This veg sandwich is so delicious, sort of healthy & is devoid of sauces, chutney or cheese. Most sandwich recipes call for some or the other sauces, spreads or cheese. I do not stock up on any bottled spreads or sauces as most of these come with loads of creepy ingredients & additives to extend the shelf life.",
       "ingredients": {
         "1": "Bread",
@@ -175,7 +175,7 @@
     },
     {
       "name": "MILLET KHICHDI",
-      "image": "https://divyanshu-950.github.io/recipe/healthyrecipe/img/kh.jpg",
+      "image": "https://divyanshu-950.github.io/RecipeAPI/healthyrecipe/img/kh.jpg",
       "description": "Indian Khichdi is one of my favourite comfort food. It is an easy-to-cook, wholesome, fulfilling meal that takes less than 30 minutes to prepare. You can cook it in a pressure cooker or an instant pot.",
       "ingredients": {
         "1": "Millet(Jowar/Ragi",
