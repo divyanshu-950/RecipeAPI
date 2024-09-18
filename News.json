@@ -67,19 +67,6 @@
     },
     {
       "source": {
-        "id": "news24",
-        "name": "News24"
-      },
-      "author": null,
-      "title": "News24 | After collapsing during speech, Mashatile is 'in good health', according to his office",
-      "description": "Deputy President Paul Mashatile has been given a clean bill of health by his doctors, his office told News24 on Sunday.",
-      "url": "https://www.news24.com/news24/politics/after-collapsing-during-speech-mashatile-is-in-good-health-according-to-his-office-20240915",
-      "urlToImage": null,
-      "publishedAt": "2024-09-15T17:09:53",
-      "content": "Deputy President Paul Mashatile has been given a clean bill of health by his doctors, his office told News24 on Sunday."
-    },
-    {
-      "source": {
         "id": "medical-news-today",
         "name": "Medical News Today"
       },
