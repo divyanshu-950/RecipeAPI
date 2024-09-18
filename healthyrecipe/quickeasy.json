@@ -24,7 +24,8 @@
         "step4": "Easy Spiced Syrup: Add 1 teaspoon Pure Vanilla Extract and 1/4 teaspoon Ground Cinnamon to 1 cup pancake syrup; stir well to mix. Serve warm, if desired."
       },
       "serving": "3 serving",
-      "Extra": ""
+      "rate":4,
+      "extra": ""
     },
     {
       "name": "Omelette",
@@ -48,7 +49,8 @@
         "step4": "At this point you can fill the omelette with whatever you like – some grated cheese, sliced ham, fresh herbs, sautéed mushrooms or smoked salmon all work well. Scatter the filling over the top of the omelette and fold gently in half with the spatula. Slide onto a plate to serve."
       },
       "serving": "1 serving",
-      "Extra": ""
+      "rate":4.2,
+      "extra": ""
     },
     {
       "name": "Potato Poha",
@@ -86,7 +88,8 @@
         "step9": "You can taste test and adjust salt as needed. Garnish with cilantro leaves and any optional garnishes.."     
       },
       "serving": "3 serving",
-      "Extra": ""
+      "rate":4.3,
+      "extra": ""
     },
     {
       "name": "SCRAMBLED EGGS ON TOAST",
@@ -114,7 +117,8 @@
      
       },
       "serving": "1 serving",
-      "Extra": ""
+      "rate":4.6,
+      "extra": ""
     },
     {
       "name": "EGG FRIED RICE",
@@ -141,7 +145,8 @@
         "step3": "Stir in cooked rice. Add soy sauce and toss rice to coat. Drizzle with sesame oil and toss again."
          },
       "serving": "6 serving",
-      "Extra": ""
+      "rate":4.4,
+      "extra": ""
     },
     {
       "name": "VEG SANDWICH",
@@ -171,7 +176,8 @@
         "step8": "Place another slice of bread. Press down gently. If using cheese, toast it on a low heat without burning until the cheese melts. Alternately you can also grill in a sandwich maker." 
          },
       "serving": "2 serving",
-      "Extra": ""
+      "rate":4.1,
+      "extra": ""
     },
     {
       "name": "MILLET KHICHDI",
@@ -200,7 +206,8 @@
         "step8": "Once you open the lid of the pressure cooker, add ghee, coriander, and mix one last time. Millet Khichdi is ready to serve." 
          },
       "serving": "2 serving",
-      "Extra": ""
+      "rate":3.8,
+      "extra": ""
     }
   ]
 }
