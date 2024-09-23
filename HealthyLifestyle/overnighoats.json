@@ -6,7 +6,7 @@
       {
         "name": "Vanilla OverNight Oats(Basic Recipe)",
         "image": "https://divyanshu-950.github.io/RecipeAPI/HealthyLifestyle/img/vanilla.jpg",
-        "description": "Vanilla Overnight Oats is a Basic Recipe or you can say that Foundation of Other Types of Overnight Oats. It Consist of Only Basic Ingredient Like: Rolled Oats, Milk, Chia Seed, Yogurt, Honey/Maple Syrup which is Almost Required in  Various Types of Overnight Oats.",
+        "description": "Vanilla Overnight Oats is a Basic Recipe or you can say that It is a Foundation of Most Types of Overnight Oats. It Consist of Only Basic Ingredient Like: Rolled Oats, Milk, Chia Seed, Yogurt, Honey/Maple Syrup which is Almost Required in  Various Types of Overnight Oats.",
         "ingredients": {
           "1": "Rolled Oats",
           "2": "Milk",
@@ -22,7 +22,7 @@
         "steps": {
           "step1": "Add your oats to your preferred jar.",
           "step2": "Top with your milk of choice.",
-          "step3": "Mix everything together until all the oats are submerged in milk.",
+          "step3": "Add Yogurt & Mix everything together until all the oats are submerged in milk. ",
           "step4": "Refrigerate overnight and eat!"
         },
         "serving": "1 serving",
@@ -32,7 +32,7 @@
       {
         "name": "Chocolate OverNight Oats",
         "image": "https://divyanshu-950.github.io/RecipeAPI/HealthyLifestyle/img/chocolateoo.jpg",
-        "description": "Chocolate Overnight Oats is Same as Vanilla Overnight Oats With a Twist Choclate Flavour. In this Recipes Other than Basic Ingredients same as Vanilla Overnight Oats Cocoa Powder Added to Provide the Flavour And Texture of Chocolate to your Overnight Oats ",
+        "description": "Chocolate Overnight Oats is Same as Vanilla Overnight Oats With a Twist Choclate Flavour. In this Recipes Other than Basic Ingredients same as Vanilla Overnight Oats Cocoa Powder is Added to Provide the Flavour And Texture of Chocolate to your Overnight Oats ",
         "ingredients": {
           "1": "Rolled Oats",
           "2": "Milk",
@@ -49,7 +49,7 @@
         "steps": {
           "step1": "Add your oats to your preferred jar.",
           "step2": "Top with your milk of choice.",
-          "step3": "Mix everything together until all the oats are submerged in milk.",
+          "step3": "Add Yogurt & Mix everything together until all the oats are submerged in milk. ",
           "step4": "Refrigerate overnight and eat!"
         },
         "serving": "1 serving",
@@ -59,7 +59,7 @@
       {
         "name": "Banana Raspberry OverNight Oats",
         "image": "https://divyanshu-950.github.io/RecipeAPI/HealthyLifestyle/img/bpoo.jpg",
-        "description": "You only need two ingredients to make overnight oats, which are, of course, milk and oats. But it probably won’t taste very good, and by adding in Greek yogurt, chia seeds, and a drizzle of your favorite sweetener, you’re really creating a well-rounded breakfast.",
+        "description": "Banana Raspberry Overnight Oats is one of a delicious way of making overnight oats. it provides a sweetness of banana and sweet tartness of raspberry with nourishment of overnight oats.it adds flavour to your simple & boring overnight oats",
         "ingredients": {
           "1": "Rolled Oats",
           "2": "Milk",
@@ -77,7 +77,7 @@
         "steps": {
           "step1": "Add your oats to your preferred jar.",
           "step2": "Top with your milk of choice.",
-          "step3": "Mix everything together until all the oats are submerged in milk.",
+          "step3": "Add Yogurt & Mix everything together until all the oats are submerged in milk. ",
           "step4": "Refrigerate overnight and eat!"
         },
         "serving": "1 serving",
@@ -87,7 +87,7 @@
       {
         "name": "Apple Pie OverNight Oats",
         "image": "https://divyanshu-950.github.io/RecipeAPI/HealthyLifestyle/img/appleoo.jpg",
-        "description": "You only need two ingredients to make overnight oats, which are, of course, milk and oats. But it probably won’t taste very good, and by adding in Greek yogurt, chia seeds, and a drizzle of your favorite sweetener, you’re really creating a well-rounded breakfast.",
+        "description": "Apple Pie Overnight Oats Contains the goodness of apple with benefits of cinnamon. We only need fresh apples and a pich of cinnamon other than basic ingredients of overnight oats with this we can make delicious and nourishing overnight oats.",
         "ingredients": {
           "1": "Rolled Oats",
           "2": "Milk",
@@ -105,7 +105,7 @@
         "steps": {
           "step1": "Add your oats to your preferred jar.",
           "step2": "Top with your milk of choice.",
-          "step3": "Mix everything together until all the oats are submerged in milk.",
+          "step3": "Add Yogurt & Mix everything together until all the oats are submerged in milk. ",
           "step4": "Refrigerate overnight and eat!"
         },
         "serving": "1 serving",
@@ -115,7 +115,7 @@
       {
         "name": "Bluebery OverNight Oats",
         "image": "https://divyanshu-950.github.io/RecipeAPI/HealthyLifestyle/img/blueberryoo.jpg",
-        "description": "You only need two ingredients to make overnight oats, which are, of course, milk and oats. But it probably won’t taste very good, and by adding in Greek yogurt, chia seeds, and a drizzle of your favorite sweetener, you’re really creating a well-rounded breakfast.",
+        "description": "Blueberry Overnight Oats contain same ingredients as Basic overnight oats with an extra addition of fresh blueberry. Blueberry not only provide sweet flavour to our overnight oats but also reduces cholesetrol & support hear health.",
         "ingredients": {
           "1": "Rolled Oats",
           "2": "Milk",
@@ -132,7 +132,7 @@
         "steps": {
           "step1": "Add your oats to your preferred jar.",
           "step2": "Top with your milk of choice.",
-          "step3": "Mix everything together until all the oats are submerged in milk.",
+          "step3": "Add Yogurt & Mix everything together until all the oats are submerged in milk. ",
           "step4": "Refrigerate overnight and eat!"
         },
         "serving": "1 serving",
@@ -142,7 +142,7 @@
       {
         "name": "Pumpkin Pie OverNight Oats",
         "image": "https://divyanshu-950.github.io/RecipeAPI/HealthyLifestyle/img/pumpkinoo.jpg",
-        "description": "You only need two ingredients to make overnight oats, which are, of course, milk and oats. But it probably won’t taste very good, and by adding in Greek yogurt, chia seeds, and a drizzle of your favorite sweetener, you’re really creating a well-rounded breakfast.",
+        "description": "Pumkin Pie Overnight Oats is known for pumkin sweetness and boosting immune system. Pumkin puree add sweetness to overnight oats with the aroma of a pumkin spices which make its more delicious and nourishing overnight oats",
         "ingredients": {
           "1": "Rolled Oats",
           "2": "Milk",
@@ -160,7 +160,7 @@
         "steps": {
           "step1": "Add your oats to your preferred jar.",
           "step2": "Top with your milk of choice.",
-          "step3": "Mix everything together until all the oats are submerged in milk.",
+          "step3": "Add Yogurt & Mix everything together until all the oats are submerged in milk. ",
           "step4": "Refrigerate overnight and eat!"
         },
         "serving": "1 serving",
