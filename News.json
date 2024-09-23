@@ -1,5 +1,201 @@
 {
     "articles": [
+      {
+        "source": {
+          "id": "the-hill",
+          "name": "The Hill"
+        },
+        "author": "Iridian Fierro, Alix Martichoux",
+        "title": "What do COVID symptoms look like this year? - The Hill",
+        "description": "With every new season comes a new variant of COVID – or so it seems.",
+        "url": "https://thehill.com/homenews/nexstar_media_wire/4892841-what-do-covid-symptoms-look-like-this-year/",
+        "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/09/AP21357663027266-e1726685158926.jpg?w=1280",
+        "publishedAt": "2024-09-22T13:37:00Z",
+        "content": "Skip to content\r\n(WGN Radio) – With every new season comes a new variant of COVID – or so it seems. \r\nOver the past several weeks, KP.3.1.1, which is one of the FLiRT subvariants of the virus, has be… [+2110 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Forbes"
+        },
+        "author": "Bryan Robinson, Ph.D.",
+        "title": "7 Daily Habits Could Be Addictions In Disguise Harming Your Career - Forbes",
+        "description": "Discover some ordinary daily habits you might not think much of that could be masking an addiction, plus how to make the distinction and what to do about it.",
+        "url": "https://www.forbes.com/sites/bryanrobinson/2024/09/22/7-daily-habits-could-be-addictions-in-disguise-harming-your-career/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66ed5f8fe333e0400a427122/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-09-22T13:19:49Z",
+        "content": "How harmless daily habits can mask an underlying addiction and harm your life and career.\r\ngetty\r\nDo you know the difference between a harm less everyday habit and an addiction that needs managing? M… [+6221 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Slate Magazine"
+        },
+        "author": "J. Bryan Lowder",
+        "title": "People Who Write Recipes Don’t Get Everything Right. There’s a Workaround. - Slate",
+        "description": "Let the wisdom of the crowd help you cook.",
+        "url": "https://slate.com/life/2024/09/cooking-recipe-comments-improve-tip.html",
+        "urlToImage": "https://compote.slate.com/images/ad548bca-0745-4109-8113-35e30f2b532c.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+        "publishedAt": "2024-09-22T13:00:00Z",
+        "content": "This is One Thing, a column with tips on how to live.\r\nThey say to never read the comments. Or at least they do to those of us who put words on the internet for a living and want to preserve our sani… [+3812 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "PsyPost"
+        },
+        "author": "Eric W. Dolan",
+        "title": "Long COVID fatigue tied to brain connectivity patterns, study finds - PsyPost",
+        "description": "A recent study found that fatigue in Long COVID is linked to distinct patterns of brain connectivity, particularly in the frontal and cerebellar regions, with mental and physical fatigue showing different connectivity patterns, suggesting unique neural mechan…",
+        "url": "https://www.psypost.org/long-covid-fatigue-tied-to-brain-connectivity-patterns-study-finds/",
+        "urlToImage": "https://www.psypost.org/wp-content/uploads/2024/09/covid-brain.jpg",
+        "publishedAt": "2024-09-22T12:18:18Z",
+        "content": "A new study published in Psychiatry Research explores the relationship between fatigue in Long COVID and specific patterns of brain connectivity. Researchers observed that fatigue, one of the most co… [+7021 chars]"
+      },
+      
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "David Cox",
+      "title": "The mosquito-bourne virus that's spreading without a cure - BBC.com",
+      "description": "West Nile virus is spreading across the US and Europe. This deadly disease been around for decades, but there is still no vaccine and no cure in humans.",
+      "url": "https://www.bbc.com/future/article/20240919-the-virus-spreading-without-a-cure",
+      "urlToImage": "https://ychef.files.bbci.co.uk/624x351/p0jrnq0t.jpg",
+      "publishedAt": "2024-09-22T09:50:49Z",
+      "content": "West Nile virus is spreading across the US and Europe. This deadly disease been around for decades, but there is still no vaccine and no cure in humans.\r\nAfter a distinguished career as one of the wo… [+12757 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WTOP"
+      },
+      "author": "Gigi Barnett",
+      "title": "‘Weekend warriors’ see similar brain boost as regular exercisers - WTOP",
+      "description": "A D.C.-area doctor calls a new study on people who pack in only one or two days of exercise a week “empowering.”",
+      "url": "https://wtop.com/health-fitness/2024/09/weekend-warriors-see-similar-brain-boost-as-regular-exercisers/",
+      "urlToImage": "https://wtop.com/wp-content/uploads/2024/09/GettyImages-1679800849.jpg",
+      "publishedAt": "2024-09-22T09:37:42Z",
+      "content": "People who pack in one or two days of exercise a week, or so-called “weekend warriors,” may get the get the same brain-boosting health benefits as people who work out regularly.\r\nDr. Angela Hsu, an i… [+1865 chars]"
+    },
+    {
+      "source": {
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "author": "Erin Prater",
+      "title": "A group of women lowered their biological age by an average of 5 years in just 8 weeks. Here's how - Fortune",
+      "description": "Changes to diet, sleep, and exercise along with interventions like relaxation exercises and supplements—could reverse aging, according to research.",
+      "url": "https://fortune.com/well/article/how-to-lower-biological-age/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2023/05/GettyImages-1442270012-e1684353525535.jpg?resize=1200,600",
+      "publishedAt": "2024-09-22T09:02:00Z",
+      "content": "Lifestyle changes to diet, sleep, and exercisepaired with interventions like relaxation exercises and supplementscould reverse the aging process, according to recent research.Six women between the ag… [+3912 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Kaitlin Reilly",
+      "title": "Try the MIND diet for better brain health, plan a trip to help slow aging — plus other wellness tips we learned this week - Yahoo Life",
+      "description": "You may want to choose soy milk over almond next time you get a latte, according to new research.",
+      "url": "https://www.yahoo.com/lifestyle/try-the-mind-diet-for-better-brain-health-plan-a-trip-to-help-slow-aging--plus-other-wellness-tips-we-learned-this-week-090012592.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/gbqsIjL2jpem4n3VyQaDIw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-06/b75561d0-2cdf-11ef-896d-323085a37a5c",
+      "publishedAt": "2024-09-22T09:00:12Z",
+      "content": "Hello, wellness enthusiasts. My name is Kaitlin, and Im here to share this weeks tips for leading your happiest, healthiest life.\r\nThe cooler temperatures mean its finally safe to take your exercise … [+8752 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Amy McGorry",
+      "title": "Apple a day and 4 other great fall food choices that are healthy, delicious and fun - Fox News",
+      "description": "Fall is a time for delicious dishes — and these five foods are healthy choices. Check out the good news on cranberries, apples, pumpkins, sweet potatoes and beets.",
+      "url": "https://www.foxnews.com/food-drink/apple-day-4-other-great-fall-food-choices-healthy-delicious-fun",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/Womenwhoeatanappleadaymayhavebettersexstudyfinds.jpg",
+      "publishedAt": "2024-09-22T09:00:00Z",
+      "content": "Join Fox News for access to this content\r\nYou have reached your maximum number of articles. Log in or create an account FREE of charge to continue reading.\r\nBy entering your email and pushing continu… [+8425 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Semafor.com"
+      },
+      "author": "Vivianne Wandera",
+      "title": "African scientists are worried about a different demographic explosion - Semafor",
+      "description": "African countries face a sharp increase in dementia cases due to longer life expectancies and healthcare systems that are inadequately resourced, scientists have warned.",
+      "url": "https://www.semafor.com/article/09/20/2024/africa-sees-dementia-rising-as-people-live-longer",
+      "urlToImage": "https://img.semafor.com/5d7c947f46efb812e04f83dbdccf35dbd3f91c35-512x341.jpg?rect=0,37,512,269&w=1200&h=630&q=75&auto=format",
+      "publishedAt": "2024-09-22T09:00:00Z",
+      "content": "NAIROBI  African countries face a sharp increase in dementia cases due to longer life expectancies and healthcare systems that are inadequately resourced to treat the growing number of elderly patien… [+1543 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Amy McGorry",
+      "title": "Virus linked to rare paralyzing illness in children could spike in US, wastewater data suggests - Fox News",
+      "description": "Wastewater samples have shown elevated levels of a respiratory virus that has been linked to paralysis in some children, according to a report from WastewaterSCAN. Infectious disease experts weigh in.",
+      "url": "https://www.foxnews.com/health/virus-linked-rare-paralyzing-illness-children-could-spike-us-wastewater-data-suggests",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/09/girl-at-doctor.jpg",
+      "publishedAt": "2024-09-22T08:30:00Z",
+      "content": "Join Fox News for access to this content\r\nPlus special access to select articles and other premium content with your account - free of charge.\r\nBy entering your email and pushing continue, you are ag… [+5319 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Erin Blakemore",
+      "title": "Racism, other social factors may affect Asian Americans’ heart health - The Washington Post",
+      "description": "The researchers note that cardiovascular health can vary widely between subgroups of Asian Americans, but the way data is reported can mask these differences.",
+      "url": "https://www.washingtonpost.com/health/2024/09/22/asian-american-heart-cardiovascular-health/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VWKK4K3ORZDQBACKEKACSHV6JY.jpg&w=1440",
+      "publishedAt": "2024-09-22T07:30:40Z",
+      "content": "Immigration status, structural racism and other social factors may contribute to disparities in cardiovascular health among Asian Americans, according to a statement prepared by a group of clinicians… [+2510 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TOI Lifestyle Desk",
+      "title": "Worst common habits for the brain that can cause Alzheimer's disease - The Times of India",
+      "description": "Alzheimer's disease is becoming more prevalent due to lifestyle factors like inactivity, poor diet, loneliness, inadequate sleep, stress, smoking, and",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/worst-habits-for-your-brain-that-can-cause-alzheimers-disease/articleshow/113530981.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-113531456,width-1070,height-580,imgsize-59214,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-09-22T07:20:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Listverse.com"
+      },
+      "author": "Listverse",
+      "title": "10 Human Capabilities That Scientists Don’t Understand - Listverse",
+      "description": null,
+      "url": "https://listverse.com/2024/09/22/10-human-capabilities-that-scientists-dont-understand/",
+      "urlToImage": null,
+      "publishedAt": "2024-09-22T07:05:26Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Medical Xpress"
+      },
+      "author": "European College of Neuropsychopharmacology",
+      "title": "Study shows psilocybin gives comparable long-term antidepressant effects to standard antidepressants - Medical Xpress",
+      "description": "A direct comparison between the experimental psychedelic drug psilocybin and a standard SSRI antidepressant shows similar improvement of depressive symptoms, but that psilocybin offers additional longer-term benefits.",
+      "url": "https://medicalxpress.com/news/2024-09-psilocybin-term-antidepressant-effects-standard.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2018/medicine.jpg",
+      "publishedAt": "2024-09-21T23:30:01Z",
+      "content": "A direct comparison between the experimental psychedelic drug psilocybin and a standard SSRI antidepressant shows similar improvement of depressive symptoms, but that psilocybin offers additional lon… [+5693 chars]"
+    },
     {
       "source": {
         "id": "techradar",
