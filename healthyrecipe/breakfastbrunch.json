@@ -145,7 +145,7 @@
         "extra": ""
       },
       {
-        "name": "SCRAMBLED EGGS ON TOAST",
+        "name": "Scrambled Eggs on Toast",
         "image": "https://divyanshu-950.github.io/RecipeAPI/healthyrecipe/img/scramble.jpg",
         "description": "Fluffy scrambled eggs on toast are deliciously soft, custardy egg folds cooked with cheese and enjoyed on top of a crisp piece of buttered toast.",
         "ingredients": {
@@ -202,7 +202,7 @@
             "extra": ""
         },
         {
-          "name": "EGG FRIED RICE",
+          "name": "Egg Fried Rice",
           "image": "https://divyanshu-950.github.io/RecipeAPI/healthyrecipe/img/frice.jpg",
           "description": "One of the best things about this top-rated dish is how easy it is to customize. Whatever you have on hand goes — chicken, shrimp, salmon, and kimchi all make mouthwatering additions to fried rice. Play and create one-of-a-kind fried rice dishes whether you're a vegetarian or meat lover.",
           "ingredients": {
@@ -258,7 +258,7 @@
         "extra": ""
       },
       {
-        "name": "VEG SANDWICH",
+        "name": "Veg Sandwich",
         "image": "https://divyanshu-950.github.io/RecipeAPI/healthyrecipe/img/vsandwich.jpg",
         "description": " A simple vegetable sandwich for breakfast and brunch that you can make under 15 mins. This veg sandwich is so delicious, sort of healthy & is devoid of sauces, chutney or cheese. Most sandwich recipes call for some or the other sauces, spreads or cheese. I do not stock up on any bottled spreads or sauces as most of these come with loads of creepy ingredients & additives to extend the shelf life.",
         "ingredients": {

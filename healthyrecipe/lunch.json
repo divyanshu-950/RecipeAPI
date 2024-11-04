@@ -1,0 +1,281 @@
+{
+    "recipes": [
+        {
+            "name": "Potato Poha",
+            "image": "https://divyanshu-950.github.io/RecipeAPI/healthyrecipe/img/poha.jpg",
+            "description": "Poha is flattened rice that is steam cooked with onions, spices and herbs. The word “poha” refers to the flattened rice itself and as well the dish made with it. These flattened rice flakes are also known as parched rice or beaten rice. They are considered to be nutritious & wholesome as they are got by minimally processing paddy.",
+            "ingredients": {
+              "1": "2.5 cup Poha (flattened rice)",
+              "2": "2 tablespoon Oil , divided",
+              "3": "2 tablespoon Peanuts, optional",
+              "4": "1/2 teaspoon Mustard Seeds (Rai), optional",
+              "5": "1/2 teaspoon Cumin seeds (Jeera), optional",
+              "6": "10-12 Curry Leaves (Kadi Patta)",
+              "7": "2 Green Chili Pepper, diced, adjust to taste)",
+              "8": "3/4 cup Onions, diced",
+              "9": "3/4 cup Potato, diced into 1/2-1 centimeter pieces",
+              "10": "1/4 teaspoon Ground Turmeric (Haldi powder)",
+              "11": "Salt to taste",
+              "12": "1 tablespoon Lime juice",
+              "13": "1 tablespoon Cilantro leaves (Corainder), chopped"
+            },
+            "time": {
+              "preptime": "10 mins",
+              "cooktime": "15 mins",
+              "total time": "25 mins"
+            },
+            "steps": {
+              "step1": "Add poha to a strainer and rinse under running water until the water runs clear. Make sure all the poha is wet. Let it rest while you sauté the other ingredients",
+              "step2": "Heat a heavy bottom pan on medium-high heat. Add oil to the pan and let it heat.",
+              "step3": "(optional )Add the peanuts and saute for 1-2 minutes while stirring continuously. When they are roasted, take out in a plate and set aside.",
+              "step4": "Add cumin seeds and mustard seeds to the oil and let them sizzle.",
+              "step5": "Add the curry leaves and green chili pepper. Then, add the diced onions and stir well. Saute for a minute.",
+              "step6": "Add the diced potatoes. Mix well with the onions. Now cover the pan with a lid and cook on medium-low heat until the potatoes are cooked completely. Open the lid and stir. Break a potato piece with the spatula to ensure it is cooked well. (It is important to cut the potatoes into small pieces so they cook quickly in 3-4 minutes)",
+              "step7": "Add turmeric, salt, sugar, and poha to the pan. Mix gently until all the poha gets the yellow turmeric color. Change to low heat and cover the pan for 2 minutes. This helps to heat the poha.",
+              "step8": "Turn off the heat and open the lid. Sprinkle lime juice, add back the roasted peanuts (if using).",
+              "step9": "You can taste test and adjust salt as needed. Garnish with cilantro leaves and any optional garnishes.."     
+            },
+            "serving": "3 serving",
+            "rate":4.3,
+            "extra": "",
+            "keyword":["poha","potato poha"]
+          },
+          
+    {
+        "name": "Egg Fried Rice",
+        "image": "https://divyanshu-950.github.io/RecipeAPI/healthyrecipe/img/frice.jpg",
+        "description": "One of the best things about this top-rated dish is how easy it is to customize. Whatever you have on hand goes — chicken, shrimp, salmon, and kimchi all make mouthwatering additions to fried rice. Play and create one-of-a-kind fried rice dishes whether you're a vegetarian or meat lover.",
+        "ingredients": {
+          "1": "⅔ cup chopped baby carrots",
+          "2": "½ cup frozen green peas",
+          "3": "2 tablespoons vegetable oil",
+          "4": "1 clove garlic, minced, or to taste (Optional)",
+          "5": "2 large eggs",
+          "6": "3 cups leftover cooked and chilled white rice",
+          "7": "1 tablespoon soy sauce, or more to taste",
+          "8": "2 teaspoons sesame oil, or to taste (optional)"
+        },
+        "time": {
+          "preptime": "05 mins",
+          "cooktime": "15 mins",
+          "total time": "20 mins"
+        },
+         "steps": {
+          "step1": "Place carrots in a small saucepan and cover with water. Bring to a low boil and cook for 3 to 5 minutes. Stir in peas, then immediately drain in a colander.",
+          "step2": "Heat a wok over high heat. Pour in vegetable oil, then stir in carrots, peas, and garlic; cook for about 30 seconds. Add eggs; stir quickly to scramble eggs with vegetables.",
+          "step3": "Stir in cooked rice. Add soy sauce and toss rice to coat. Drizzle with sesame oil and toss again."
+           },
+        "serving": "6 serving",
+        "rate":4.4,
+        "extra": "",
+        "keyword":["fried rice","egg fried rice","rice"]
+      },
+    {
+        "name": "Dal Khichdi",
+        "image": "https://divyanshu-950.github.io/RecipeAPI/healthyrecipe/img/kh.jpg",
+        "description": "Indian Khichdi is one of my favourite comfort food. It is an easy-to-cook, wholesome, fulfilling meal that takes less than 30 minutes to prepare. You can cook it in a pressure cooker or an instant pot.",
+        "ingredients": {
+          "1": "Millet(Jowar/Ragi",
+          "2": "Lentils(yellow moong & pink masoor)",
+          "3": "Spices(Red Chilli Powder, Turmeric Powder, Garam Masala, Cumin, Cloves, Whole Dried Red Chilli)",
+          "4": "Cooking Oil",
+          "5": "Other Ingredients: Onion, Tomato, Ginger Garlic Paste, Asafoetida (hing), Salt, Water, Coriander Leaves"
+        },
+        "time": {
+          "preptime": "05 mins",
+          "cooktime": "30 mins",
+          "total time": "35 mins"
+        },
+         "steps": {
+          "step1": "Rinse the millet with water. Transfer it to a bowl.",
+          "step2": " Combine both lentils in a bowl. Rinse them with water, then soak them in water for 15 minutes (optional).",
+          "step3": "Heat oil in a pressure cooker. Once hot, add cumin, cloves, dried red chillies, and asafoetida. Saute briefly to release the aroma and infuse flavour into the oil.",
+          "step4": " Add onion and saute them till they turn light brown.",
+          "step5": " Next, add ginger garlic paste, tomato, salt, turmeric powder, and red chilli powder. Stir to combine. Saute the masala till the tomatoes break down.",
+          "step6": "Add soaked vegetables, millet, and lentils. Saute for 2 minutes.",
+          "step7": "Add water, mix, and pressure cook millet khichdi for two whistles over low heat.",
+          "step8": "Once you open the lid of the pressure cooker, add ghee, coriander, and mix one last time. Millet Khichdi is ready to serve." 
+           },
+        "serving": "2 serving",
+        "rate":3.8,
+        "extra": "",
+        "keyword":["khichdi","rice"]
+      },
+      {
+          "name": "Veg Biryani",
+          "image": "https://divyanshu-950.github.io/RecipeAPI/healthyrecipe/img/kh.jpg",
+          "description": "Veg Biryani is a flavourful rice dish made with basmati rice, mixed vegetables, whole spices, freshly ginger, garlic, coriander and mint leaves. In this blog post I have shared vegetable biryani made 4 different ways using pressure cooker, stove top, mangalore veg biryani and instant pot version. biryani is a celebration dish great for huge gatherings, festivities and quick family dinner meals. Learn how to make this vegetarian rice dish with flavour packed aromatic rice, spices and fried nuts with step by step pictures and video also check my veg dum biryani recipe.",
+          "ingredients": {
+            "1": "2 cups Basmati Rice",
+            "2": "1 tbsp Oil",
+            "3": "1 tbsp Ghee",
+            "4": "3 piece Pandan Leaves / Ramba Ilai / Biryani leaf",
+            "5": "2 no Green Chillies slit",
+            "6": "1 large Tomatoes chopped finely",
+            "7": "3 tbsp Biryani Masala Powder",
+            "8": "2 large Carrots chopped",
+            "9": "1 cup Cauliflower chopped",
+            "10": "10 no Beans chopped",
+            "11": "1 cup Green Peas",
+            "12": "1 tsp Sugar",
+            "13": "3 cups Water",
+            "14": "2 tsp Lemon Juice",
+            "15": "For Grinding: ½ cup Coriander Leaves chopped, ½ cup Mint Leaves chopped, 2 inch Ginger, 6 cloves Garlic peeled"
+          },
+          "time": {
+            "preptime": "20 mins",
+            "cooktime": "30 mins",
+            "total time": "50 mins"
+          },
+           "steps": {
+            "step1": "Wash and soak rice in lots of water for 20 mins. Take the grinding ingredients in a blender and make it into a smooth paste.",
+            "step2": "Heat oil and 1 tblspn of ghee in a pressure cooker. Add in pandan leaf and fry for 30 seconds.",
+            "step3": "Now add in sliced onions and saute till it is brown. Add in green chillies and ground masala and saute for 2 mins till raw smell leaves from it.",
+            "step4": "Add in tomatoes and cook for 2 mins or so. Sprinkle in biryani spice mix and salt.",
+            "step5": "Mix well. Add in chopped veggies and toss well in the masala. Add in soaked drained rice and mix well.",
+            "step6": "Pour in water and some sugar. Taste and adjust for seasoning. Bring this to boil, simmer the stove and pressure cook for 1 whistle. Simmer for 5 minutes and turn off the flame.",
+            "step7": "Switch off the heat and let the steam go all by itself. Open the cooker. Now heat 1 tblspn of ghee and fry cashews till it golden, pour this ghee and cashews over the rice and mix well. Serve."
+             },
+          "serving": "6 serving",
+          "rate":4.6,
+          "extra": "",
+          "keyword":["briyani","veg briyani","rice"]
+        },
+        {
+            "name": "Chicken Biryani",
+            "image": "https://divyanshu-950.github.io/RecipeAPI/healthyrecipe/img/kh.jpg",
+            "description": "Authentic chicken Biryani with tender pieces of chicken marinated in warming spices, layerd with aromatic long grain Basmati rice topped with caramelized onions and saffron milk.",
+            "ingredients": {
+              "1": "1 pound chicken drumsticks",
+              "2": "1 pound boneless skinless chicken thighs cut in half",
+              "3": "2 teaspoon biryani masala",
+              "4": "2 tablespoon ginger garlic paste",
+              "5": "2 teaspoons kosher salt",
+              "6": "1 tablespoon kashmiri red chili powde",
+              "7": "½ teaspoon ground turmeric",
+              "8": "¼ cup fresh mint leaves chopped",
+              "9": "2 tablespoon lemon juice",
+              "10": "¾ cup plain yogurt",
+              "11": "1 large yellow onion thinly sliced",
+              "12": "ghee",
+              "13": "2½ cups Extra long grain Basmati rice",
+              "14": "1 teaspoon black cumin seeds - shah jeera",
+              "15": "2 bay leaves - tamal patra",
+              "16":"4 green cardamom pods",
+              "17":"8 cloves",
+              "18":"1½ tablespoons kosher salt",
+              "19":"¼ cup chopped cilantro"
+            },
+            "time": {
+              "preptime": "30 mins",
+              "cooktime": "30 mins",
+              "total time": "60 mins"
+            },
+             "steps": {
+              "step1": "Make the marinade by mixing yogurt, ginger, garlic, turmeric, red chili powder, garam masala, salt, mint leaves, and lemon juice.",
+              "step2": "Add chicken and coat evenly with the marinade. Keep in the refrigerator for at least 30 minutes. Note: You can also marinate the chicken overnight in teh refrigerator.",
+              "step3": "Rinse and drain the basmati rice 2 to 3 times. Add 4 cups of water and let it soak for 20 minutes.",
+              "step4": "While the rice is soaking, add ghee to a heavy-bottomed pan and add onions. On medium heat, fry the onions stirring frequently until they become light golden brown and start to crisp up - about 15 to 20 minutes.",
+              "step5": "Remove the fried onions from the pan, leaving the excess ghee behind as we will use this pan to cook the chicken. Add one fourth of the fried onions to the marinated chicken and give a quick mix.",
+              "step6": "In a medium pot add 8 cups of water. Add cumin seeds, bay leaves, star anise, cardamom, cloves, and salt to the rice and bring it to boil on high heat.",
+              "step7": "Drain the soaked rice and add it to the boiling water. Bring the rice to a full boil on high heat. Lower the heat to medium and cook uncovered for 5 to 6 minutes or until the rice is about 90% cooked. Drain the rice promptly and reserve.",
+              "step8": "To the pan with the remaining ghee, add the marinated chicken. Cook on medium heat for 8 to 10 minutes, turning halfway through.",
+              "step9": "Carefully layer the partially cooked rice over the chicken.",
+              "step10": "Cover the pot and seal it with aluminum foil, then place some weight over the lid. Cook on low heat for 20 minutes, this is the steam or 'Dum' cooking step. Turn the heat off and wait another 10 minutes before opening the pot.",
+              "step11": "Garnish with cilantro. Before serving allow the biryani to sit uncovered for 5 minutes. Gently fluff the rice using a fork or a silicone spatula. This will help the delicate rice grains to firm up a bit preventing them from breaking. Serve with Raita and lemon wedges"
+               },
+            "serving": "6 serving",
+            "rate":4.6,
+            "extra": "",
+            "keyword":["briyani","chicken briyani","rice","chicken"]
+          },
+          {
+              "name": "Paneer Kathi Rolls",
+              "image": "https://divyanshu-950.github.io/RecipeAPI/healthyrecipe/img/kh.jpg",
+              "description": "Popular Indian street food, Paneer Kathi rolls are warm, layered parathas filled with spicy paneer, mixed peppers, and sweet caramelized onions",
+              "ingredients": {
+                "1": "2 cups paneer cut into 1 inch cubes",
+                "2": "1 small red pepper thinly sliced",
+                "3": "1 small green pepper thinly sliced",
+                "4": "1 medium red onion thinly sliced",
+                "5": "¼ cup plain yogurt",
+                "6": "1 teaspoon ginger grated",
+                "7": "1 teaspoon garlic pressed",
+                "8": "1 teaspoon Kashmiri red chili powder add 2 teaspoons for spicy",
+                "9": "1 teaspoon garam masala",
+                "10": "¼ teaspoon ground turmeric",
+                "11": "1 teaspoon kosher salt",
+                "12": "6 to 8 kawan parathas ",
+                "13": "1 medium yellow onion thinly sliced",
+                "14": "½ cup cilantro chopped",
+                "15": "cilantro chutney"
+              },
+              "time": {
+                "preptime": "30 mins",
+                "cooktime": "30 mins",
+                "total time": "60 mins"
+              },
+               "steps": {
+                "step1": "Marinate the paneer- Mix all the marinade ingredients in a bowl. Add paneer and mix well.",
+                "step2": "Make the filling- Heat 2 tablespoons of oil in a pan. Add onions, peppers and ½ teaspoon of salt and cook for 3 to 4 minutes. Add marinated paneer and mix well. Cook for another 3 to 4 minutes. Turn the heat off. Add cilantro.",
+                "step3": "Cook the Parathas- Heat a non-stick griddle pan. Remove the kawan paratha from the plastic wrapping and place it on the griddle. Cook on medium-high heat for about to 1 to 1½ minutes on each side or until both sides are golden brown, pressing gently with a spatula. Enjoy hot!",
+                "step4": "Assemble Kathi Roll- Spread 2 teaspoons of chutney on cooked paratha. Add 2 to 3 spoonfuls of the filling in the middle. Add few sliced onions and cilantro on top. roll the sides up to the middle. You can use small toothpicks to hold them together."
+                 },
+              "serving": "6 serving",
+              "rate":4.3,
+              "extra": "",
+              "keyword":["roll","kathi roll","paneer","paneer roll"]
+            }
+          ,
+        {
+            "name": "Paneer Biryani",
+            "image": "https://divyanshu-950.github.io/RecipeAPI/healthyrecipe/img/kh.jpg",
+            "description": "Classic vegetarian Biryani recipe with cubed paneer marinated in warming spices, layerd with aromatic long grain Basmati rice.",
+            "ingredients": {
+              "1": "4 tablespoons ghee",
+              "2": "1 large yellow onion thinly sliced (about 2 cups)",
+              "3": "0.75 lbs paneer cut into 1 inch cubes (300 grams ~ 3 cups)",
+              "4": "½ red pepper cut into 1 inch cubes (½ cup)",
+              "5": "1 small red onion cut into 1 inch cubes (½ cup)",
+              "6": "2 teaspoon biryani masala",
+              "7": "3 teaspoons ginger garlic paste",
+              "8": "2 teaspoons kosher salt",
+              "9": "2 teaspoons kashmiri red chili powder",
+              "10": "⅓ teaspoon ground turmeric",
+              "11": "¼ cup fresh mint leaves rough chopped",
+              "12": "1 tablespoon lemon juice",
+              "13": "¾ cup plain yogurt",
+              "14": "1 medium ripe tomato pureed ½ cup",
+              "15": "2 cups Extra long grain Basmati rice",
+              "16":"1 teaspoon cumin seeds",
+              "17":"2 bay leaves",
+              "18":"3 green cardamom pods",
+              "19":"6 cloves",
+              "20":"1½ tablespoons kosher salt",
+              "21":"¼ cup chopped cilantro"
+            },
+            "time": {
+              "preptime": "30 mins",
+              "cooktime": "30 mins",
+              "total time": "60 mins"
+            },
+             "steps": {
+              "step1": "To a medium mixing bowl add yogurt, ginger paste, garlic paste, salt, biryani masala, turmeric, red chili powder, lemon juice, and mint leaves. Mix well.",
+              "step2": "Add onion, peppers, and paneer to the marinade and stir gently to evenly coat with the marinade. Cover and keep aside for 30 minutes allowing the paneer to marinate.",
+              "step3": "Rinse and drain the basmati rice 2 to 3 times. Add 4 cups of water and let it soak for 20 minutes.",
+              "step4": "While the rice is soaking, add ghee to a heavy-bottomed pan and add onions. On medium heat, fry the onions stirring frequently until they start to turn golden brown - about 15 to 20 minutes. Take out half of the fried onions from the pan leaving the remaining onions and excess ghee in the pan.",
+              "step5": "In a medium pot add 8 cups of water. Add cumin seeds, bay leaves, star anise, cardamom, cloves, and salt to the rice and bring the to a boil on high heat.",
+              "step6": "Drain the soaked rice and add it to the boiling water. Bring the rice to a full boil on high heat.Lower the heat to medium and cook uncovered for 5 to 6 minutes or until the rice is about 80% cooked. Drain the rice promptly and reserve.",
+              "step7": "To the pan with the remaining ghee and caramelized onions, add pureed tomatoes. Cook stirring frequently on medium heat for 5 minutes.",
+              "step8": "Add the marinated paneer and veggies and saute gently for 5 minutes or until everything is just heated through. Do not overcook the paneer.",
+              "step9": "Gently layer partially cooked rice over the paneer and veggies.Secure aluminum foil around the lid to seal the pot tightly so the heat does not escape and the flavors are locked in. You can also place a heavy object on top of the lid to keep it sealed. Cook covered on low heat for 20 minutes.",
+              "step10": "After the biryani is cooked, allow it to rest for 10 minutes before serving. This helps the flavors meld and the rice to firm up.",
+              "step11": "Garnish with cilantro. Before serving allow the biryani to sit uncovered for 5 minutes. Gently fluff the rice using a fork or a silicone spatula. This will help the delicate rice grains to firm up a bit preventing them from breaking. Serve with Raita and lemon wedges"
+               },
+            "serving": "6 serving",
+            "rate":4.5,
+            "extra": "",
+            "keyword":["briyani","paneer briyani","rice","paneer"]
+          }
+    ]
+}
