@@ -321,7 +321,7 @@
               "ingredients": {
                 "1": "1½ pounds chicken breasts",
                 "2": "1½ teaspoons kosher salt",
-                "3": "▢1 tablespoon lemon juice",
+                "3": "1 tablespoon lemon juice",
                 "4": "2 tablespoons plain yogurt",
                 "5": "2 teaspoons Kashmiri red chili powder",
                 "6": "1 teaspoon garam masala",
@@ -333,7 +333,7 @@
                 "12": "¼ teaspoon ground turmeric",
                 "13": "1 teaspoon kosher salt",
                 "14": "1 to 2 teaspoon Kashmiri red chili powder",
-                "15": "▢½ to 1 teaspoon garam masala",
+                "15": "½ to 1 teaspoon garam masala",
                 "16":"½ cup heavy whipping cream",
                 "17":"1 tablespoon dried fenugreek leaves kasoori methi",
                 "18":"½ cup cilantro chopped"
@@ -356,6 +356,43 @@
               "rate":4.7,
               "extra": "",
               "keyword":["chicken tikka","chickent"]
-            }
+            },
+            {
+                "name": "Instant Pot Palak Paneer",
+                "image": "https://divyanshu-950.github.io/RecipeAPI/healthyrecipe/img/palakpaneer.jpg",
+                "description": "A classic vegetarian dish from North India, Palak Paneer is cooked with fresh spinach and paneer along with fresh ginger, garlic and garam masala",
+                "ingredients": {
+                  "1": "15 raw cashews",
+                  "2": "2 tablespoons ghee",
+                  "3": "1 teaspoon cumin seeds",
+                  "4": "1 teaspoon ginger grated",
+                  "5": "1 teaspoon garlic minced",
+                  "6": "1 to 2 teaspoon hot green chili minced",
+                  "7": "1 medium yellow onion chopped fine",
+                  "8": "1 lb spinach baby spinach works the best, or use chopped frozen",
+                  "9": "1 teaspoon kosher salt",
+                  "10": "1 cup water",
+                  "11": "2 cups paneer cubed",
+                  "12": "1 teaspoon garam masala"
+                },
+                "time": {
+                  "preptime": "05 mins",
+                  "cooktime": "10 mins",
+                  "total time": "15 mins"
+                },
+                 "steps": {
+                  "step1": "Add cashews to milk and blend together to make a smooth paste. Keep aside. Note: Double up milk and cashews if your blender blades are not low and if the paste does not turn out smooth. Making a larger portion can help with bigger blender jars and you can freeze the extra for next time.",
+                  "step2": "Turn the Instant Pot to saute mode and heat ghee. Add cumin seeds, ginger, garlic, and green chili. Saute for a minute. Add onions and cook for 2 minutes stirring a few times. Add spinach, salt, and water. Close the Instant Pot with pressure valve to sealing.",
+                  "step3": "For frozen spinach - Pressure cook on (Hi) for 1 minute or for fresh spinach - Pressure cook on (Hi) for 0 minute",
+                  "step4": "Quick-release and turn off the Instant Pot",
+                  "step5": "Add ½ cup of water(optional) and blend to make a smooth paste using an immersion blender.",
+                  "step6": "Add cashew paste, garam masala, and paneer. Gently stir everything together and cook on sauté mode for 2 minutes or until heated through.",
+                  "step7": "Serve hot with rice or parathas. For a low carb option serve with caulilfower rice."
+                   }, 
+                "serving": "4 serving",
+                "rate":4.3,
+                "extra": "",
+                "keyword":["palak paneer","paneer"]
+              }
     ]
 }
