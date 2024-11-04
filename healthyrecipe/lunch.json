@@ -103,7 +103,7 @@
       },
       {
           "name": "Veg Biryani",
-          "image": "https://divyanshu-950.github.io/RecipeAPI/healthyrecipe/img/kh.jpg",
+          "image": "https://divyanshu-950.github.io/RecipeAPI/healthyrecipe/img/vegbiryani.jpg",
           "description": "Veg Biryani is a flavourful rice dish made with basmati rice, mixed vegetables, whole spices, freshly ginger, garlic, coriander and mint leaves. In this blog post I have shared vegetable biryani made 4 different ways using pressure cooker, stove top, mangalore veg biryani and instant pot version. biryani is a celebration dish great for huge gatherings, festivities and quick family dinner meals. Learn how to make this vegetarian rice dish with flavour packed aromatic rice, spices and fried nuts with step by step pictures and video also check my veg dum biryani recipe.",
           "ingredients": {
             "1": "2 cups Basmati Rice",
@@ -143,7 +143,7 @@
         },
         {
             "name": "Chicken Biryani",
-            "image": "https://divyanshu-950.github.io/RecipeAPI/healthyrecipe/img/kh.jpg",
+            "image": "https://divyanshu-950.github.io/RecipeAPI/healthyrecipe/img/chickenbiryani.jpg",
             "description": "Authentic chicken Biryani with tender pieces of chicken marinated in warming spices, layerd with aromatic long grain Basmati rice topped with caramelized onions and saffron milk.",
             "ingredients": {
               "1": "1 pound chicken drumsticks",
@@ -190,8 +190,45 @@
             "keyword":["briyani","chicken briyani","rice","chicken"]
           },
           {
+              "name": "Butter Paneer",
+              "image": "https://divyanshu-950.github.io/RecipeAPI/healthyrecipe/img/butterpaneer.jpg",
+              "description": "A classic Indian dish cooked with paneer in a tomato and cream based sauce.",
+              "ingredients": {
+                "1": "2 tablespoons ghee",
+                "2": "2 tablespoon ginger garlic paste",
+                "3": "2 teaspoons Kashmiri red chilli powder or another mild red chili powder",
+                "4": "1 ½ teaspoon kosher salt",
+                "5": "½ teaspoon ground turmeric",
+                "6": "1 cup tomato puree canned or 2 to 3 ripe tomatoes, pureed",
+                "7": "½ cup water",
+                "8": "1 pound paneer cut into ½-inch cubes",
+                "9": "½ cup heavy cream",
+                "10": "2 tablespoons tomato paste",
+                "11": "2 tablespoons dried fenugreek leaves optional",
+                "12": "2 teaspoons sugar",
+                "13": "1 teaspoon garam masala",
+                "14": "½ cup chopped fresh cilantro",
+                "15": "8 Naan"
+              },
+              "time": {
+                "preptime": "10 mins",
+                "cooktime": "20 mins",
+                "total time": "30 mins"
+              },
+               "steps": {
+                "step1": "Select the high Sauté setting on the Instant Pot and heat the ghee. Add the onion, ginger, garlic, chile powder, salt, and turmeric and sauté until aromatic, about 1 minute. Add the tomato puree and water and stir to combine. Layer over the garam masala, but do not mix.",
+                "step2": "Secure the lid and set the Pressure Release to Sealing. Press the Cancel button to reset the cooking program, then select the Pressure Cook or Manual setting and set the cooking time for 8 minutes on high pressure.",
+                "step3": "Perform a quick release by moving the Pressure Release Valve to Venting. Open the pot and blend the sauce to a smooth consistency using an immersion blender. Stir in the paneer, cream, tomato paste, fenugreek leaves, and sugar. Select the high Sauté setting and cook until the curry comes to a gentle boil, about 5 minutes. Press the Cancel button to turn off the Instant Pot. Garnish with cilantro & serve.",
+                "step5": "Serve with basmati rice and parathas. For a low carb meal serve with turmeric cauliflower rice or lemon cauliflower rice"
+                 },
+              "serving": "6 serving",
+              "rate":4.6,
+              "extra": "",
+              "keyword":["briyani","chicken briyani","rice","chicken"]
+            },
+          {
               "name": "Paneer Kathi Rolls",
-              "image": "https://divyanshu-950.github.io/RecipeAPI/healthyrecipe/img/kh.jpg",
+              "image": "https://divyanshu-950.github.io/RecipeAPI/healthyrecipe/img/paneerkathiroll.jpg",
               "description": "Popular Indian street food, Paneer Kathi rolls are warm, layered parathas filled with spicy paneer, mixed peppers, and sweet caramelized onions",
               "ingredients": {
                 "1": "2 cups paneer cut into 1 inch cubes",
@@ -211,9 +248,9 @@
                 "15": "cilantro chutney"
               },
               "time": {
-                "preptime": "30 mins",
-                "cooktime": "30 mins",
-                "total time": "60 mins"
+                "preptime": "10 mins",
+                "cooktime": "20 mins",
+                "total time": "30 mins"
               },
                "steps": {
                 "step1": "Marinate the paneer- Mix all the marinade ingredients in a bowl. Add paneer and mix well.",
@@ -229,7 +266,7 @@
           ,
         {
             "name": "Paneer Biryani",
-            "image": "https://divyanshu-950.github.io/RecipeAPI/healthyrecipe/img/kh.jpg",
+            "image": "https://divyanshu-950.github.io/RecipeAPI/healthyrecipe/img/paneerbiryani.jpg",
             "description": "Classic vegetarian Biryani recipe with cubed paneer marinated in warming spices, layerd with aromatic long grain Basmati rice.",
             "ingredients": {
               "1": "4 tablespoons ghee",
@@ -271,11 +308,54 @@
               "step9": "Gently layer partially cooked rice over the paneer and veggies.Secure aluminum foil around the lid to seal the pot tightly so the heat does not escape and the flavors are locked in. You can also place a heavy object on top of the lid to keep it sealed. Cook covered on low heat for 20 minutes.",
               "step10": "After the biryani is cooked, allow it to rest for 10 minutes before serving. This helps the flavors meld and the rice to firm up.",
               "step11": "Garnish with cilantro. Before serving allow the biryani to sit uncovered for 5 minutes. Gently fluff the rice using a fork or a silicone spatula. This will help the delicate rice grains to firm up a bit preventing them from breaking. Serve with Raita and lemon wedges"
-               },
+               }, 
             "serving": "6 serving",
             "rate":4.5,
             "extra": "",
             "keyword":["briyani","paneer briyani","rice","paneer"]
-          }
+          },
+          {
+              "name": "Instant Pot Chicken Tikka Masala ",
+              "image": "https://divyanshu-950.github.io/RecipeAPI/healthyrecipe/img/chickentikka.jpg",
+              "description": "A restaurant favorite, creamy tomato-based curry with chicken marinated in yogurt, red chili powder, turmeric, and garam masala.",
+              "ingredients": {
+                "1": "1½ pounds chicken breasts",
+                "2": "1½ teaspoons kosher salt",
+                "3": "▢1 tablespoon lemon juice",
+                "4": "2 tablespoons plain yogurt",
+                "5": "2 teaspoons Kashmiri red chili powder",
+                "6": "1 teaspoon garam masala",
+                "7": "4 teaspoons ginger garlic paste",
+                "8": "1 teaspoon oil for basting",
+                "9": "2 tablespoons butter or oil",
+                "10": "2 medium yellow onions diced",
+                "11": "3 plum tomatoes chopped or 1.5 cups diced or pureed tomatoes",
+                "12": "¼ teaspoon ground turmeric",
+                "13": "1 teaspoon kosher salt",
+                "14": "1 to 2 teaspoon Kashmiri red chili powder",
+                "15": "▢½ to 1 teaspoon garam masala",
+                "16":"½ cup heavy whipping cream",
+                "17":"1 tablespoon dried fenugreek leaves kasoori methi",
+                "18":"½ cup cilantro chopped"
+              },
+              "time": {
+                "preptime": "20 mins",
+                "cooktime": "30 mins",
+                "total time": "50 mins"
+              },
+               "steps": {
+                "step1": "Make 2 to 3 slits in the chicken breasts. Apply salt and lemon juice to the chicken breasts. Mix yogurt, red chili powder, garam masala, ginger, and garlic. Apply evenly to the chicken breasts and allow to marinate for 20 minutes or refrigerate if marinating ahead of time. Marinating chicken for 4-5 hours or overnight works well.",
+                "step2": "Set the Instant Pot to Saute mode and heat butter or oil. Add onions and saute for 2 minutes. Add ginger, garlic and mix well. Add tomatoes, turmeric, salt red chili powder, and garam masala. Mix well add 2 tablespoons of water. Deglaze the pot if needed",
+                "step3": "Place the tall trivet in the main pot. Place the marinated chicken over the trivet. Baste the chicken with oil. Close the Instant Pot with the pressure valve to sealing. Pressure Cook for 8 minutes followed by 10-minute natural pressure release.",
+                "step4": "Open the Instant Pot. Take the chicken and the trivet out. Using an immersion blender, blend the sauce until smooth.",
+                "step5": "Stir in cream and fenugreek leaves.",
+                "step6": "Broil the cooked chicken in a preheated oven for 5 minutes to get some char marks (Optional). Cut the chicken into 2-inch pieces and add them to the sauce.",
+                "step7": "Set the Instant Pot to saute mode and bring the curry to a gentle boil. The sauce will thicken further as it cools down. Garnish with cilantro."
+                 }, 
+              "serving": "5 serving",
+              "rate":4.7,
+              "extra": "",
+              "keyword":["chicken tikka","chickent"]
+            }
     ]
 }
