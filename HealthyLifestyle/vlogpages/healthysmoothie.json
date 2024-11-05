@@ -3,10 +3,11 @@
             "title":"7+ Healthy Smoothie Recipes to Make for Breakfast",
             "description":"Healthy smoothie recipes provide an ideal fix for anyone looking for something nutritious to eat, stat. Throw a few ingredients into a blender, grab a glass, and you’re ready to go in just a few seconds. Easy, right? But not all smoothies will help you meet your nutritional (or weight loss) goals. In fact, many pre-made smoothies (and smoothie bowls) you find at the store are loaded with excess sugar and don't have enough fiber, protein or fat to keep you satiated.Good news: If you’re looking for healthy smoothies for weight loss or just a delicious way to start your day, we have expert-approved tips, tricks, and ingredients to toss into your blender.",
             "image":"https://divyanshu-950.github.io/RecipeAPI/HealthyLifestyle/img/7+smoothie.jpg",
+            "type":"foodblog",
             "content":[
                 {
                     "name": "Tropical Chia Smoothie",
-                  "image": "https://divyanshu-950.github.io/RecipeAPI/healthyrecipe/img/tcsmoothie.jpg",
+                  "image": "https://divyanshu-950.github.io/RecipeAPI/HealthyLifestyle/img/tcsmoothie.jpg",
                   "description": "Make this morning drink the night before: The fiber-packed chia seeds will absorb the liquid for a thick and satisfying sip.",
                   "ingredients": {
                     "1": "2 Tbsp. finely shredded unsweetened coconut",
@@ -34,7 +35,7 @@
                 },
                 {
                     "name": "Berry, Chia and Mint Smoothie",
-                  "image": "https://divyanshu-950.github.io/RecipeAPI/healthyrecipe/img/bcmsmoothie.jpg",
+                  "image": "https://divyanshu-950.github.io/RecipeAPI/HealthyLifestyle/img/bcmsmoothie.jpg",
                   "description": "The beauty of this bold, red smoothie is that you can handle all the prep way in advance. Keep the sliced strawberries, grated beets, and chia seeds in the freezer until you’re ready to add milk and blend. Bonus: This drink will give you a ton of gut-friendly fiber, too.",
                   "ingredients": {
                     "1": "1 cups sliced strawberries",
@@ -60,7 +61,7 @@
                 },
                 {
                     "name": "Green Pineapple Coconut Smoothie",
-                  "image": "https://divyanshu-950.github.io/RecipeAPI/healthyrecipe/img/gpcsmoothie.jpg",
+                  "image": "https://divyanshu-950.github.io/RecipeAPI/HealthyLifestyle/img/gpcsmoothie.jpg",
                   "description": "Looking to get more greens into your diet? This fruity beverage packs in a whole cup of baby spinach per serving—but you'll barely taste it. Instead, your taste buds will be focused on the tropical flavors that the pineapple, coconut, banana, and lime are bringing to the equation..",
                   "ingredients": {
                     "1": "2 cups baby spinach",
@@ -85,7 +86,7 @@
                 },
                 {
                     "name": "Green Ginger Smoothie",
-                  "image": "https://divyanshu-950.github.io/RecipeAPI/healthyrecipe/img/ggsmoothie.jpg",
+                  "image": "https://divyanshu-950.github.io/RecipeAPI/HealthyLifestyle/img/ggsmoothie.jpg",
                   "description": "Baby spinach and Granny Smith apples combine to create the delicious green color of this smoothie. Hemp seeds add a dose of plant protein and healthy fats.",
                   "ingredients": {
                     "1": "2 cups baby spinach",
@@ -110,7 +111,7 @@
                 },
                 {
                     "name": "Cranberry Banana Smoothie",
-                  "image": "https://divyanshu-950.github.io/RecipeAPI/healthyrecipe/img/cbsmoothie.jpg",
+                  "image": "https://divyanshu-950.github.io/RecipeAPI/HealthyLifestyle/img/cbsmoothie.jpg",
                   "description": "Frozen cranberries are an excellent way to savor the taste of fall, year-round. The berry adds fiber and flavor to this smoothie, while the banana gives it a rich, creamy texture, and maple syrup adds the perfect amount of sweetness.",
                   "ingredients": {
                     "1": "1 cups  frozen cranberries",
@@ -134,7 +135,7 @@
                 },
                 {
                     "name": " Tropical Papaya Perfection Smoothie",
-                  "image": "https://divyanshu-950.github.io/RecipeAPI/healthyrecipe/img/tppsmoothie.jpg",
+                  "image": "https://divyanshu-950.github.io/RecipeAPI/HealthyLifestyle/img/tppsmoothie.jpg",
                   "description": "This protein and fiber-rich smoothie is the perfect light breakfast or midday pick-me-up. Plus, it doesn’t hurt that sipping on this glass of sunshine might just make you feel like you’re on a tropical island far away.",
                   "ingredients": {
                     "1": "1 papaya",
@@ -159,7 +160,7 @@
                 },
                 {
                     "name": "Berry Good Workout Smoothie",
-                  "image": "https://divyanshu-950.github.io/RecipeAPI/healthyrecipe/img/bgwsmoothie.jpg",
+                  "image": "https://divyanshu-950.github.io/RecipeAPI/HealthyLifestyle/img/bgwsmoothie.jpg",
                   "description": "Get the energy you need to power through your workout in minutes with this easy-to-make smoothie recipe. For an extra dose of calcium",
                   "ingredients": {
                     "1": "1/2 cups chopped strawberries",
@@ -184,7 +185,7 @@
                 
                 {
                     "name": "Tutti-Frutti Smoothie",
-                  "image": "https://divyanshu-950.github.io/RecipeAPI/healthyrecipe/img/tfsmoothie.jpg",
+                  "image": "https://divyanshu-950.github.io/RecipeAPI/HealthyLifestyle/img/tfsmoothie.jpg",
                   "description": "A splash of orange juice infuses citrus into this healthy and refreshing snack.",
                   "ingredients": {
                     "1": "1/2 cup mixed frozen berries",
