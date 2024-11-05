@@ -8,7 +8,7 @@
  },
  {
     "title":"High-Fiber Foods to Up Your Daily Fiber Intake",
-    "description":"Fiber plays a role to help your gut move and remove the waste in your digestive system. You can get good sources of fiber from the foods you already eat, like fruits, vegetables, legumes, and whole grains, as well as supplements. Fiber doesn’t just work to keep you regular – there are some fibers, like psyllium, that can give you additional important health benefits.",
+    "description":" ",
     "image":"https://divyanshu-950.github.io/RecipeAPI/HealthyLifestyle/img/fibre.jpg",
     "url":"fibrefood"
  },
@@ -17,6 +17,18 @@
     "description":"Protein is a crucial nutrient. While some sources of protein are expensive, there are also many affordable alternatives.",
     "image":"https://divyanshu-950.github.io/RecipeAPI/HealthyLifestyle/img/proteinfoods.jpg",
     "url":"proteinfoods"
+ },
+ {
+    "title":"6 Yoga Poses to Boost Your Immune System",
+    "description":"Inspired by Ayurveda, this yoga sequence for your immune system is designed to keep you healthy during cold and flu season. It contains both heated poses to help clear congestion, and soothing, restorative postures to build ojas, or vigor, which is often considered the protective buffer of your immune system.",
+    "image":"https://divyanshu-950.github.io/RecipeAPI/HealthyLifestyle/img/yoga.jpg",
+    "url":"yoga"
+ },
+ {
+    "title":"6 Quick & Easy Overnight Oats Recipes",
+    "description":"Overnight oats are simply oats that are left to soak overnight instead of cooked in the morning, which makes them perfect for a quick, filling and nutritious breakfast.",
+    "image":"https://divyanshu-950.github.io/RecipeAPI/HealthyLifestyle/img/overnightoats.jpg",
+    "url":"overnighoats"
  }
 ]
 }

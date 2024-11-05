@@ -1,0 +1,36 @@
+{
+    
+    "title":"6 Yoga Poses to Boost Your Immune System",
+    "description":"Inspired by Ayurveda, this yoga sequence for your immune system is designed to keep you healthy during cold and flu season. It contains both heated poses to help clear congestion, and soothing, restorative postures to build ojas, or vigor, which is often considered the protective buffer of your immune system.",
+    "image":"https://divyanshu-950.github.io/RecipeAPI/HealthyLifestyle/img/proteinfoods.jpg",
+    "content":[
+        {
+            "name":"Bhujangasana",
+            "description":"Lie on the floor, face facing the ground\\n Now, place your palms on your sides and slowly lift your torso\\n At this point, the only body parts touching the ground should be your palms and lower body\\n Hold this position for 30 seconds and release\\n Repeat 3-4 times daily"
+        },
+        {
+            "name":"Balasana",
+            "description":"Sit straight with your legs folded\\n At this point, your feet are supposed to be facing upwards\\n Now, slowly bend your torso forward on the floor\\n At this point, your arms should be extending forward as well, as far as possible\\n Your face should also be facing the floor as well as your palms\\n Your calves, forehead, and palms should all be touching the ground in this position\\n As it only stretches your body and is a resting pose, it provides comfort and relaxation\\n Hold this position for 10-15 seconds and perform 4-5 sets daily."
+        },
+        {
+            "name":"Setu Bandhasana",
+            "description":"Lie on the ground facing the ceiling with your hands on your sides\\n Slowing lift your hips off the ground\\n At this point, the only thing touching the floor should be your upper torso, head, arms, and feet\\n Hold this position for 10 seconds and repeat 4-5 times"
+        },
+        {
+            "name":"Adho Mukha Svanasana",
+            "description":"Lay flat on the ground facing the floor\\n Slowly lift your torso and form a mountain-like structure with your body\\n Your palms need to be farther apart and reaching outwards (in comparison to your shoulders)\\n On the other hand, your feet need to be placed next to each other\\n At this point, the only body parts touching the ground should be your palms and feet\\n Your face needs to be facing inwards and downwards, at the same angle as the arms\\n Your body must form a triangle (your hands, hips, and feet being the corners)\\n Hold this position for a few seconds and repeat 10 times at least"
+        },
+        {
+            "name":"Halasana",
+            "description":"Lie on your back\\n Place your hands on the side\\n Slowly lift your legs up\\n Continue to bring your legs up while keeping them straight\\n The aim is the carry your legs over your head and be able to place your toes on the ground above the head\\n At this point, you may hold your hand crossing\\n During this position, your back also must lift off the floor\\n Hold this position for 15-20 seconds and release\\n Repeat a few times"
+        },
+        {
+            "name":"Shavasana",
+            "description":"Lie down on the flat ground, preferably on a yoga mat\\n Keep your arms aside and your palms open\\n Your palms should be facing the sky\\n Your legs should be slightly farther apart than your shoulders\\n At this point, breathe in and out"
+        },
+        {
+            "name":"Tadasana",
+            "description":"Stand straight with your legs at the same distance as your shoulders\\n Lift your hands towards the ceiling\\n Open your palms and stretch as far up as possible\\n At this point, join your hands and entangle them forcing your palms to face the ceiling\\n You are encouraged to look upwards\\n Hold this stretch for 10 seconds and repeat 3-5 times"
+        }
+    ]    
+}
