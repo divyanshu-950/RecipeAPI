@@ -4,19 +4,19 @@
         "title":"7+ Healthy Smoothie Recipes to Make for Breakfast",
         "description":"Healthy smoothie recipes provide an ideal fix for anyone looking for something nutritious to eat, stat. Throw a few ingredients into a blender, grab a glass, and you’re ready to go in just a few seconds. Easy, right? But not all smoothies will help you meet your nutritional (or weight loss) goals. In fact, many pre-made smoothies (and smoothie bowls) you find at the store are loaded with excess sugar and don't have enough fiber, protein or fat to keep you satiated.Good news: If you’re looking for healthy smoothies for weight loss or just a delicious way to start your day, we have expert-approved tips, tricks, and ingredients to toss into your blender.",
         "image":"https://divyanshu-950.github.io/RecipeAPI/HealthyLifestyle/img/7+smoothie.jpg",
-        "url":"https://divyanshu-950.github.io/RecipeAPI/HealthyLifestyle/vlogpages/healthysmoothie.json"
+        "url":"healthysmoothie"
  },
  {
     "title":"High-Fiber Foods to Up Your Daily Fiber Intake",
     "description":"Fiber plays a role to help your gut move and remove the waste in your digestive system. You can get good sources of fiber from the foods you already eat, like fruits, vegetables, legumes, and whole grains, as well as supplements. Fiber doesn’t just work to keep you regular – there are some fibers, like psyllium, that can give you additional important health benefits.",
     "image":"https://divyanshu-950.github.io/RecipeAPI/HealthyLifestyle/img/fibre.jpg",
-    "url":"https://divyanshu-950.github.io/RecipeAPI/HealthyLifestyle/vlogpages/fibrefood.json"
+    "url":"fibrefood"
  },
  {
     "title":"10 Cheap and Healthy Sources of Protein",
     "description":"Protein is a crucial nutrient. While some sources of protein are expensive, there are also many affordable alternatives.",
     "image":"https://divyanshu-950.github.io/RecipeAPI/HealthyLifestyle/img/proteinfoods.jpg",
-    "url":"https://divyanshu-950.github.io/RecipeAPI/HealthyLifestyle/vlogpages/proteinfoods.json"
+    "url":"proteinfoods"
  }
 ]
 }

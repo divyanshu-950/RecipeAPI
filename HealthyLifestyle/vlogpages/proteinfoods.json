@@ -1,6 +1,5 @@
 {
-    "details":[
-     {
+    
          "title":"10 Cheap and Healthy Sources of Protein",
          "description":"1Protein is a crucial nutrient. While some sources of protein are expensive, there are also many affordable alternatives.",
          "image":"https://divyanshu-950.github.io/RecipeAPI/HealthyLifestyle/img/proteinfoods.jpg",
@@ -47,5 +46,4 @@
              }
          ]    
      }
-    ]
- }
+    
