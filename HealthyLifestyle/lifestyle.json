@@ -29,6 +29,18 @@
     "description":"Overnight oats are simply oats that are left to soak overnight instead of cooked in the morning, which makes them perfect for a quick, filling and nutritious breakfast.",
     "image":"https://divyanshu-950.github.io/RecipeAPI/HealthyLifestyle/img/overnightoats.jpg",
     "url":"overnighoats"
+ },
+ {
+    "title":"5 habits that foster weight loss",
+    "description":"Let’s face it: the hardest part about losing weight isn’t knowing what to eat. You’ve heard it a thousand times: eat lots of vegetables, fruits, whole grains, and lean protein. The real challenge is changing your habits to make those healthy choices part of your everyday routine without feeling too deprived.",
+    "image":"https://divyanshu-950.github.io/RecipeAPI/HealthyLifestyle/img/weightloss1.jpg",
+    "url":"weightloss1"
+ },
+ {
+    "title":" 8 Foods to Help Manage Blood Sugar ",
+    "description":"If you're living with diabetes, you probably know all about the careful balancing act that is diabetes nutrition. Making good food choices can make a big impact on blood sugar management, but sometimes it’s tricky to know which foods are considered good choices. These 10 picks can help you manage blood sugar levels and keep your numbers in check",
+    "image":"https://divyanshu-950.github.io/RecipeAPI/HealthyLifestyle/img/diabetes1.jpg",
+    "url":"diabetes1"
  }
 ]
 }

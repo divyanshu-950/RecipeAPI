@@ -1,0 +1,40 @@
+{
+    
+    "title":"8 Foods to Help Manage Blood Sugar ",
+    "description":"If you're living with diabetes, you probably know all about the careful balancing act that is diabetes nutrition. Making good food choices can make a big impact on blood sugar management, but sometimes it’s tricky to know which foods are considered good choices. These 10 picks can help you manage blood sugar levels and keep your numbers in check.",
+    "image":"https://divyanshu-950.github.io/RecipeAPI/HealthyLifestyle/img/diabetes1.jpg",
+    "content":[
+        {
+            "name":"Unsweetened or Plain Yogurt",
+            "description":"Probiotic yogurt is a great choice for managing blood sugar levels and in one study was shown to lower fasting blood sugar and hemoglobin A1C among those with type 2 diabetes. It's full of good bacteria to maintain a healthy gut and contains protein to help manage hunger and maintain muscle — factors that can indirectly contribute to managing your blood sugar. Choose unsweetened Greek yogurt for low sugar content and high protein."
+        },
+        {
+            "name":"Blueberries",
+            "description":"The evidence on the health benefits of eating blueberries is compelling. In a study of men with type 2 diabetes, consuming one cup of blueberries daily for eight weeks was associated with improved hemoglobin A1C and triglycerides. You’ll find blueberries to be a great option, especially if you use the glycemic index — a rating system that measures how much specific foods increase blood sugar levels — to guide your diabetes nutrition. One cup of raw blueberries contains nearly 4 grams of fiber, which is 14% of the daily recommended fiber amount. In addition, they contain other important nutrients such as vitamin C and magnesium and serve as a fantastic and filling mid-day snack."
+        },
+        {
+            "name":"Beans",
+            "description":"Beans, especially kidney, pinto and black beans, are an excellent choice for those with diabetes. They're packed with vitamins and minerals and are a very good source of fiber, too. They're a great alternative to meat when it comes to meeting your protein needs. "
+        },
+        {
+            "name":"Leafy Greens",
+            "description":"Dark leafy greens like spinach and kale have very low glycemic index values, as well as many beneficial nutrients like fiber and Vitamin C. They're flexible to use both raw and cooked, making them easy to incorporate into your daily diet."
+        },
+        {
+            "name":"Dates",
+            "description":"Dates have a lower glycemic index compared to other dried fruits and are a great way to satisfy your sweet tooth when enjoyed in moderation. One date contains about 1.5 grams of fiber and can make for a filling snack, when paired with a protein and/or fat. "
+        },
+        {
+            "name":"Steel-cut Oats",
+            "description":"Steel-cut oats are a good choice for managing blood sugar due to their rich fiber content — ¼ cup of dry (about 1 cup cooked) steel-cut oats contains 4 grams of fiber. They can help manage blood sugar compared to higher glycemic breakfast choices thanks to beta-glucan fiber which can slow down carbohydrate absorption and help prevent sudden spikes in blood sugar."
+        },
+        {
+            "name":"Mushrooms",
+            "description":"Mushrooms have high concentrations of beta-D-glucans, a form of fiber shown to lower blood glucose response. As a bonus, mushrooms have a low glycemic index and come in a variety of options – portobello, shitake, cremini and more. You can make them a regular staple in your diet and never get bored."
+        },
+        {
+            "name":"Millet",
+            "description":"Millet is an underrated choice in the world of grains. This gluten-free grain is high in fiber and when compared to rice or wheat, millet has a lower glycemic index. It’s a very versatile grain and can be used similarly to how you would prepare a rice dish. "
+        }
+    ]    
+}
