@@ -42,5 +42,12 @@
     "image":"https://divyanshu-950.github.io/RecipeAPI/HealthyLifestyle/img/diabetes1.jpg",
     "url":"diabetes1"
  }
+ ,
+ {
+    "title":"6 Foods To Not Consume With Coffee",
+    "description":"Coffee can offer a temporary energy boost and other health benefits, making it a powerful addition to a well-balanced diet. For example, research has proven that moderate coffee consumption can help prevent inflammatory and oxidative stress-related diseases, such as type 2 diabetes and several types of cancer.",
+    "image":"https://divyanshu-950.github.io/RecipeAPI/HealthyLifestyle/img/coffee1.jpg",
+    "url":"coffee1"
+ }
 ]
 }

@@ -1,0 +1,32 @@
+{
+    
+    "title":"6 Foods To Not Consume With Coffee",
+    "description":"Coffee can offer a temporary energy boost and other health benefits, making it a powerful addition to a well-balanced diet. For example, research has proven that moderate coffee consumption can help prevent inflammatory and oxidative stress-related diseases, such as type 2 diabetes and several types of cancer.However, coffee can also influence the absorption of some nutrients, which may lessen or heighten the effects of some foods.",
+    "image":"https://divyanshu-950.github.io/RecipeAPI/HealthyLifestyle/img/diabetes1.jpg",
+    "content":[
+        {
+            "name":"Citrus Fruits",
+            "description":"Citrus fruits and their juices are also highly acidic and may contribute to gastroesophageal reflux disease (GERD) when consumed. GERD is often characterized by uncomfortable symptoms like nausea, bloating, and heartburn. Consuming coffee and citrus fruits together can irritate the stomach lining and exacerbate those symptoms.The tangy, tart taste of citrus fruits may also alter the taste of coffee by making it bitter and less enjoyable. It may be best to enjoy citrus fruits separately from coffee to fully appreciate their flavors and take advantage of their health benefits without digestive discomfort."
+        },
+        {
+            "name":" Red Meat",
+            "description":"Research indicates that drinking coffee can affect nutrient absorption in the gut, especially iron. Red meat is one of the best sources of heme iron, meaning drinking coffee with your steak could decrease its health benefits.One study examined coffee's effects on serum ferritin levels and found that consuming three or more cups of coffee daily significantly reduced iron levels. In fact, iron absorption following a meal decreased by approximately 39% after drinking coffee. Iron plays several critical roles in the body, including supporting blood circulation, hormone production, and immune function. Iron deficiency anemia is one of the most widespread nutritional problems in the world, highlighting the importance of iron-rich foods.6 Opt for other protein sources with your morning coffee, and save the red meat for a time when your body can readily absorb its iron."
+        },
+        {
+            "name":"Milk",
+            "description":"Milk is an excellent source of calcium, which is essential to bone health, muscle function, blood clotting, and hormone production. One cup of nonfat milk meets 23% of the recommended Daily Value (DV) for calcium for the average healthy adult. However, research indicates that combining milk and coffee may hinder calcium absorption. In other words, the caffeine in coffee can decrease the net absorption of dietary calcium. Calcium that's not absorbed is excreted through the urine. High levels of urinary calcium excretion have been linked to an increased risk of kidney stones and bone health concerns. Those who enjoy milk in their coffee may need to meet their calcium needs with other foods at varying times during the day. A registered dietitian (RD) can help you navigate your calcium needs and design a meal plan accordingly."
+        },
+        {
+            "name":" Fried Foods",
+            "description":"Research indicates that increased coffee consumption can lead to an increased risk of dyslipidemia, which is abnormal levels of fat in your bloodstream. Drinking three or more cups of coffee a day may increase your low-density lipoprotein (LDL) cholesterol ('bad' cholesterol), which negatively affects your heart health. It may also decrease your high-density lipoprotein (HDL) cholesterol (good cholesterol), which supports your heart health.9Since eating fried foods frequently has been linked to an increased risk of cardiovascular disease, those who enjoy regular coffee beverages may need to limit their fried food intake to maintain heart health. While nutrition needs vary between individuals, research suggests that eating fried foods four or more times per week may increase your risk of developing chronic disease. Be mindful of how often you consume meals with fried foods, and discuss your coffee-to-fried food ratio with an RD."
+        },
+        {
+            "name":"Fortified Breakfast Cereals",
+            "description":"Many breakfast cereals are fortified with essential vitamins and minerals. For example, breakfast cereals, often fortified with zinc, are a significant source of the essential mineral for many diets. However, coffee can interfere with zinc's bioavailability. While no current research breaks down the relationship between coffee intake and nutrient absorption from fortified breakfast cereals, it may be best to separate the two.Research has not established a standardized waiting time between consuming cereal and drinking coffee. An RD can help plan a well-balanced meal plan that addresses individualized nutrition needs."
+        },
+        {
+            "name":"High-Sodium Foods",
+            "description":"Coffee contains many biologically active compounds that directly affect blood pressure. Thankfully, research indicates that drinking 1-3 cups of coffee daily isn't likely to have adverse effects on blood pressure levels. However, excessive caffeine intake can aggravate hypertension (high blood pressure). Research has repeatedly proven that sodium intake directly correlates with blood pressure. Therefore, it may be beneficial to consume coffee mindfully when eating high-sodium foods. The American Heart Association recommends no more than 2,300 milligrams (mg) of sodium daily. An RD can help you navigate your sodium intake and safely incorporate coffee, if desired."
+        }
+    ]    
+}
