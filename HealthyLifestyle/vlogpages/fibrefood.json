@@ -1,7 +1,7 @@
 {
 
-        "title":"7+ Healthy Smoothie Recipes to Make for Breakfast",
-        "description":"Healthy smoothie recipes provide an ideal fix for anyone looking for something nutritious to eat, stat. Throw a few ingredients into a blender, grab a glass, and you’re ready to go in just a few seconds. Easy, right? But not all smoothies will help you meet your nutritional (or weight loss) goals. In fact, many pre-made smoothies (and smoothie bowls) you find at the store are loaded with excess sugar and don't have enough fiber, protein or fat to keep you satiated.Good news: If you’re looking for healthy smoothies for weight loss or just a delicious way to start your day, we have expert-approved tips, tricks, and ingredients to toss into your blender.",
+        "title":"High-Fiber Foods to Up Your Daily Fiber Intake",
+        "description":"Fiber plays a role to help your gut move and remove the waste in your digestive system. You can get good sources of fiber from the foods you already eat, like fruits, vegetables, legumes, and whole grains, as well as supplements. Fiber doesn’t just work to keep you regular – there are some fibers, like psyllium, that can give you additional important health benefits.",
         "image":"https://divyanshu-950.github.io/RecipeAPI/HealthyLifestyle/img/7+smoothie.jpg",
         "type":"blog",
         "content":[
@@ -22,47 +22,47 @@
                 "description":"With 8 grams of dietary fiber per cup, help yourself to bigger helpings to add more fiber to your diet. You’ll need about 3 cups of green peas to get the daily recommended fiber intake. Flavorful and healthy, green peas are a great source of iron, manganese, and vitamins A and C."
             },
             {
-                "title":"Carrots",
+                "name":"Carrots",
                 "description":"Lightly steamed carrots will release more of their beta carotene. But if you enjoy them raw, you’ll get all the benefits of 2 grams of fiber in each large carrot. It takes about 14 large carrots to reach the daily recommended fiber intake."
             },
             {
-                "title":"Cauliflower",
+                "name":"Cauliflower",
                 "description":"Riced cauliflower is a popular low-carb alternative to starchy vegetables and can be made into pizza crust and chips. It’s great way to add more foods high in fiber fiber to your diet, but it may not get you to the 28 grams of daily recommended fiber every day. That would mean eating about 2 medium-sized heads of cauliflower, every day."
             },
             {
-                "title":"Avocados",
+                "name":"Avocados",
                 "description":"Whether in guacamole, on toast, or in salads, avocados are widely enjoyed for their rich, creamy flavor and healthy fats. With 9 grams of fiber per medium-size avocado, it would take about 3 avocados to reach your daily recommended fiber intake."
             },
             {
-                "title":"Apple",
+                "name":"Apple",
                 "description":"Apples are particularly high in a type of soluble fiber called pectin. It takes about 7 apples to get your daily recommended fiber. That’ll take quite a while to slice."
             },
             {
-                "title":"Banana",
+                "name":"Banana",
                 "description":"Can you eat 14 bananas in a day? One of the most versatile fruits and a perennial favorite, a banana provides 2 grams of fiber. Bananas are filling and a great way to add some fiber to a meal or snack."
             },
             {
-                "title":"Almonds",
+                "name":"Almonds",
                 "description":"A cup of almonds contains almost 18 grams of fiber. Try sprinkling some over cooked vegetables or entrees to add crunchy, flavorful fiber. It takes about 1.5 cup of almonds to hit your daily recommended fiber. Almond butter also contains fiber, but almond milk does not."
             },
             {
-                "title":"Peanuts",
+                "name":"Peanuts",
                 "description":"Your go-to PB&J is not just a favorite comfort food, it also provides a good amount of fiber, especially when you pair it with whole grain bread. It takes over 2 cups of raw peanuts to reach 28 grams"
             },
             {
-                "title":"Chia seeds",
+                "name":"Chia seeds",
                 "description":"Chia seeds are a super-food well worth adding to your diet. High in soluble fiber, they’re a great thickener for smoothies or used as a crunchy topping for yogurt. Each ounce provides almost 10 grams of fiber."
             },
             {
-                "title":"Oats",
+                "name":"Oats",
                 "description":"Great as a cooked cereal, or baked in cookies, muffins, or granola, oatmeal is particularly high in heart-healthy soluble fiber. With 4 grams of fiber per cup, it takes about 7 cups of instant boiled oats to hit 28 grams."
             },
             {
-                "title":"Quinoa",
+                "name":"Quinoa",
                 "description":"Quinoa is loaded with protein and rich in fiber with 5.18 grams of fiber per cup. But it still takes about 5.4 cups of cooked quinoa to hit the daily recommended fiber intake. Add quinoa to your weekly dinner rotation or stir in cinnamon and sugar for a sweet treat."
             },
             {
-                "title":"Popcorn",
+                "name":"Popcorn",
                 "description":"Air-popped popcorn is a healthy snack—but it’ll take you over 2 gallons of popcorn to get the daily recommended fiber intake. Top it with a sprinkle of nutritional yeast for a cheesy flavor or experiment with your favorite herbs and spices."
             }
         ]    
