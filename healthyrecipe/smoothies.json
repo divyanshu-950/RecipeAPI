@@ -25,7 +25,7 @@
       "serving": "2 serving",
       "rate":4.4,
       "extra": "",
-      "keywords":["smooothie","smoothies","banana smoothies","banana smoothie","fruit smoothie"]
+      "keywords":["smoothie","smoothies","banana smoothies","banana smoothie","fruit smoothie"]
     },
     {
         "name": "Tropical Chia Smoothie",
@@ -53,7 +53,7 @@
       "serving": "2 serving",
       "rate":4.3,
       "extra": "",
-      "keywords":["smooothie","smoothies","chia smoothies","chia smoothie", "healthy","fruit smoothie"]
+      "keywords":["smoothie","smoothies","chia smoothies","chia smoothie", "healthy smoothie","fruit smoothie"]
     },
     {
         "name": "Berry, Chia and Mint Smoothie",
@@ -79,7 +79,7 @@
       "serving": "2 serving",
       "rate":4.5,
       "extra": "",
-      "keywords":["smooothie","smoothies","chia smoothies","chia smoothie", "healthy","fruit smoothie"]
+      "keywords":["smoothie","smoothies","chia smoothies","chia smoothie", "healthy smoothie","fruit smoothie"]
     },
     {
         "name": "Green Pineapple Coconut Smoothie",
@@ -104,12 +104,12 @@
       "serving": "2 serving",
       "rate":4.2,
       "extra": "",
-      "keywords":["smooothie","smoothies","pineapple smoothies","pineapple smoothie", "healthy","fruit smoothie"]
+      "keywords":["smoothie","smoothies","pineapple smoothies","pineapple smoothie", "healthy smoothie","fruit smoothie"]
     },
     {
         "name": "Green Ginger Smoothie",
       "image": "https://divyanshu-950.github.io/RecipeAPI/healthyrecipe/img/ggsmoothie.jpg",
-      "description": "Baby spinach and Granny Smith apples combine to create the delicious green color of this smoothie. Hemp seeds add a dose of plant protein and healthy fats.",
+      "description": "Baby spinach and Granny Smith apples combine to create the delicious green color of this smoothie. Hemp seeds add a dose of plant protein and healthy smoothie fats.",
       "ingredients": {
         "1": "2 cups baby spinach",
         "2": "1 chopped Granny Smith apple",
@@ -129,7 +129,7 @@
       "serving": "2 serving",
       "rate":4.1,
       "extra": "",
-      "keywords":["smooothie","smoothies","ginger smoothies","ginger smoothie", "healthy","fruit smoothie"]
+      "keywords":["smoothie","smoothies","ginger smoothies","ginger smoothie", "healthy smoothie","fruit smoothie"]
     },
     {
         "name": "Cranberry Banana Smoothie",
@@ -153,7 +153,7 @@
       "serving": "2 serving",
       "rate":4.4,
       "extra": "",
-      "keywords":["smooothie","smoothies","banana smoothies","banana smoothie", "healthy","fruit smoothie"]
+      "keywords":["smoothie","smoothies","banana smoothies","banana smoothie", "healthy smoothie","fruit smoothie"]
     },
     {
         "name": " Tropical Papaya Perfection Smoothie",
@@ -178,7 +178,7 @@
       "serving": "2 serving",
       "rate":4.4,
       "extra": "",
-      "keywords":["smooothie","smoothies","papaya smoothies","papaya smoothie", "healthy","fruit smoothie"]
+      "keywords":["smoothie","smoothies","papaya smoothies","papaya smoothie", "healthy smoothie","fruit smoothie"]
     },
     {
         "name": "Berry Good Workout Smoothie",
@@ -202,13 +202,13 @@
       "serving": "2 serving",
       "rate":4.6,
       "extra": "",
-      "keywords":["smooothie","smoothies","strawberry smoothies","strawberry smoothie", "healthy","fruit smoothie"]
+      "keywords":["smoothie","smoothies","strawberry smoothies","strawberry smoothie", "healthy smoothie","fruit smoothie"]
     },
     
     {
         "name": "Tutti-Frutti Smoothie",
       "image": "https://divyanshu-950.github.io/RecipeAPI/healthyrecipe/img/tfsmoothie.jpg",
-      "description": "A splash of orange juice infuses citrus into this healthy and refreshing snack.",
+      "description": "A splash of orange juice infuses citrus into this healthy smoothie and refreshing snack.",
       "ingredients": {
         "1": "1/2 cup mixed frozen berries",
         "2": "1/2 cup canned crushed pineapple in juice",
@@ -227,7 +227,7 @@
       "serving": "2 serving",
       "rate":4.6,
       "extra": "",
-      "keywords":["smooothie","smoothies","mixedfruit smoothies","mixedfruit smoothie", "healthy","fruit smoothie"]
+      "keywords":["smoothie","smoothies","mixedfruit smoothies","mixedfruit smoothie", "healthy smoothie","fruit smoothie"]
     },
     
     {
@@ -251,7 +251,7 @@
       "serving": "2 serving",
       "rate":4.8,
       "extra": "",
-      "keywords":["smooothie","smoothies","mixedfruit smoothies","mixedfruit smoothie", "healthy","fruit smoothie"]
+      "keywords":["smoothie","smoothies","mixedfruit smoothies","mixedfruit smoothie", "healthy smoothie","fruit smoothie"]
     }
 
     ]
