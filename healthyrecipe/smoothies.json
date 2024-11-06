@@ -24,8 +24,8 @@
       },
       "serving": "2 serving",
       "rate":4.4,
-      "keywords":["smooothie","smoothies","banana smoothies","banana smoothie","fruit smoothie"],
-      "extra": ""
+      "extra": "",
+      "keywords":["smooothie","smoothies","banana smoothies","banana smoothie","fruit smoothie"]
     },
     {
         "name": "Tropical Chia Smoothie",
@@ -52,8 +52,8 @@
       },
       "serving": "2 serving",
       "rate":4.3,
-      "keywords":["smooothie","smoothies","chia smoothies","chia smoothie", "healthy","fruit smoothie"],
-      "extra": ""
+      "extra": "",
+      "keywords":["smooothie","smoothies","chia smoothies","chia smoothie", "healthy","fruit smoothie"]
     },
     {
         "name": "Berry, Chia and Mint Smoothie",
@@ -78,8 +78,8 @@
       },
       "serving": "2 serving",
       "rate":4.5,
-      "keywords":["smooothie","smoothies","chia smoothies","chia smoothie", "healthy","fruit smoothie"],
-      "extra": ""
+      "extra": "",
+      "keywords":["smooothie","smoothies","chia smoothies","chia smoothie", "healthy","fruit smoothie"]
     },
     {
         "name": "Green Pineapple Coconut Smoothie",
@@ -103,8 +103,8 @@
       },
       "serving": "2 serving",
       "rate":4.2,
-      "keywords":["smooothie","smoothies","pineapple smoothies","pineapple smoothie", "healthy","fruit smoothie"],
-      "extra": ""
+      "extra": "",
+      "keywords":["smooothie","smoothies","pineapple smoothies","pineapple smoothie", "healthy","fruit smoothie"]
     },
     {
         "name": "Green Ginger Smoothie",
@@ -128,8 +128,8 @@
       },
       "serving": "2 serving",
       "rate":4.1,
-      "keywords":["smooothie","smoothies","ginger smoothies","ginger smoothie", "healthy","fruit smoothie"],
-      "extra": ""
+      "extra": "",
+      "keywords":["smooothie","smoothies","ginger smoothies","ginger smoothie", "healthy","fruit smoothie"]
     },
     {
         "name": "Cranberry Banana Smoothie",
@@ -152,8 +152,8 @@
       },
       "serving": "2 serving",
       "rate":4.4,
-      "keywords":["smooothie","smoothies","banana smoothies","banana smoothie", "healthy","fruit smoothie"],
-      "extra": ""
+      "extra": "",
+      "keywords":["smooothie","smoothies","banana smoothies","banana smoothie", "healthy","fruit smoothie"]
     },
     {
         "name": " Tropical Papaya Perfection Smoothie",
@@ -177,8 +177,8 @@
       },
       "serving": "2 serving",
       "rate":4.4,
-      "keywords":["smooothie","smoothies","papaya smoothies","papaya smoothie", "healthy","fruit smoothie"],
-      "extra": ""
+      "extra": "",
+      "keywords":["smooothie","smoothies","papaya smoothies","papaya smoothie", "healthy","fruit smoothie"]
     },
     {
         "name": "Berry Good Workout Smoothie",
@@ -201,8 +201,8 @@
       },
       "serving": "2 serving",
       "rate":4.6,
-      "keywords":["smooothie","smoothies","strawberry smoothies","strawberry smoothie", "healthy","fruit smoothie"],
-      "extra": ""
+      "extra": "",
+      "keywords":["smooothie","smoothies","strawberry smoothies","strawberry smoothie", "healthy","fruit smoothie"]
     },
     
     {
@@ -226,8 +226,8 @@
       },
       "serving": "2 serving",
       "rate":4.6,
-      "keywords":["smooothie","smoothies","mixedfruit smoothies","mixedfruit smoothie", "healthy","fruit smoothie"],
-      "extra": ""
+      "extra": "",
+      "keywords":["smooothie","smoothies","mixedfruit smoothies","mixedfruit smoothie", "healthy","fruit smoothie"]
     },
     
     {
@@ -250,8 +250,8 @@
       },
       "serving": "2 serving",
       "rate":4.8,
-      "keywords":["smooothie","smoothies","mixedfruit smoothies","mixedfruit smoothie", "healthy","fruit smoothie"],
-      "extra": ""
+      "extra": "",
+      "keywords":["smooothie","smoothies","mixedfruit smoothies","mixedfruit smoothie", "healthy","fruit smoothie"]
     }
 
     ]
