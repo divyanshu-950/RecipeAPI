@@ -38,7 +38,7 @@
             "serving": "3 serving",
             "rate":4.3,
             "extra": "",
-            "keyword":["poha","potato poha"]
+            "keywords":["poha","potato poha"]
           },
           
     {
@@ -69,7 +69,7 @@
         "serving": "6 serving",
         "rate":4.4,
         "extra": "",
-        "keyword":["fried rice","egg fried rice","rice"]
+        "keywords":["fried rice","egg fried rice","rice"]
       },
     {
         "name": "Dal Khichdi",
@@ -101,7 +101,7 @@
         "serving": "2 serving",
         "rate":3.8,
         "extra": "",
-        "keyword":["khichdi","rice"]
+        "keywords":["khichdi","rice"]
       },
       {
           "name": "Veg Biryani",
@@ -141,7 +141,7 @@
           "serving": "6 serving",
           "rate":4.6,
           "extra": "",
-          "keyword":["briyani","veg briyani","rice"]
+          "keywords":["briyani","veg briyani","rice"]
         },
         {
             "name": "Chicken Biryani",
@@ -189,7 +189,7 @@
             "serving": "6 serving",
             "rate":4.6,
             "extra": "",
-            "keyword":["briyani","chicken briyani","rice","chicken"]
+            "keywords":["briyani","chicken briyani","rice","chicken"]
           },
           {
               "name": "Butter Paneer",
@@ -226,7 +226,7 @@
               "serving": "6 serving",
               "rate":4.6,
               "extra": "",
-              "keyword":["briyani","chicken briyani","rice","chicken"]
+              "keywords":["briyani","chicken briyani","rice","chicken"]
             },
           {
               "name": "Paneer Kathi Rolls",
@@ -263,7 +263,7 @@
               "serving": "6 serving",
               "rate":4.3,
               "extra": "",
-              "keyword":["roll","kathi roll","paneer","paneer roll"]
+              "keywords":["roll","kathi roll","paneer","paneer roll"]
             }
           ,
         {
@@ -314,7 +314,7 @@
             "serving": "6 serving",
             "rate":4.5,
             "extra": "",
-            "keyword":["briyani","paneer briyani","rice","paneer"]
+            "keywords":["briyani","paneer briyani","rice","paneer"]
           },
           {
               "name": "Instant Pot Chicken Tikka Masala ",
@@ -357,7 +357,7 @@
               "serving": "5 serving",
               "rate":4.7,
               "extra": "",
-              "keyword":["chicken tikka","chickent"]
+              "keywords":["chicken tikka","chickent"]
             },
             {
                 "name": "Instant Pot Palak Paneer",
@@ -394,7 +394,7 @@
                 "serving": "4 serving",
                 "rate":4.3,
                 "extra": "",
-                "keyword":["palak paneer","paneer"]
+                "keywords":["palak paneer","paneer"]
               }
     ]
 }

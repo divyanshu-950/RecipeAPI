@@ -25,7 +25,7 @@
         "serving": "1 serving",
         "rate":4.6,
         "extra": "",
-        "keyword":["overnight oats","oats"]
+        "keywords":["overnight oats","oats"]
       },
       {
         "name": "Chocolate OverNight Oats",
@@ -53,7 +53,7 @@
         "serving": "1 serving",
         "rate":4.6,
         "extra": "",
-        "keyword":["overnight oats","oats","choclate overnoght oats"]
+        "keywords":["overnight oats","oats","choclate overnoght oats"]
       },
       {
         "name": "French Toast",
@@ -81,7 +81,7 @@
         "serving": "3 serving",
         "rate":4.0,
         "extra": "",
-        "keyword":["french toast","bread","eggs"]
+        "keywords":["french toast","bread","eggs"]
       },
       {
         "name": "Omelette",
@@ -107,7 +107,7 @@
         "serving": "1 serving",
         "rate":4.2,
         "extra": "",
-        "keyword":["omellete","eggs"]
+        "keywords":["omellete","eggs"]
       },
       {
         "name": "Potato Poha",
@@ -147,7 +147,7 @@
         "serving": "3 serving",
         "rate":4.3,
         "extra": "",
-        "keyword":["poha","potato poha","potato"]
+        "keywords":["poha","potato poha","potato"]
       },
       {
         "name": "Scrambled Eggs on Toast",
@@ -177,7 +177,7 @@
         "serving": "1 serving",
         "rate":4.6,
         "extra": "",
-        "keyword":["egss","bread","scrambled eggs"]
+        "keywords":["egss","bread","scrambled eggs"]
       },
       {
           "name": "Banana Raspberry OverNight Oats",
@@ -206,7 +206,7 @@
             "serving": "1 serving",
             "rate":4.6,
             "extra": "",
-            "keyword":["overnight oats","oats","banana"]
+            "keywords":["overnight oats","oats","banana"]
         },
         {
           "name": "Egg Fried Rice",
@@ -235,7 +235,7 @@
           "serving": "6 serving",
           "rate":4.4,
           "extra": "",
-          "keyword":["egg fried rice","eggs","rice"]
+          "keywords":["egg fried rice","eggs","rice"]
         },
       {
         "name": "Apple Pie OverNight Oats",
@@ -264,7 +264,7 @@
         "serving": "1 serving",
         "rate":4.6,
         "extra": "",
-        "keyword":["overnight oats","oats","apple"]
+        "keywords":["overnight oats","oats","apple"]
       },
       {
         "name": "Veg Sandwich",
@@ -296,7 +296,7 @@
         "serving": "2 serving",
         "rate":4.1,
         "extra": "",
-        "keyword":["sandwich","veg sandwich","bread"]
+        "keywords":["sandwich","veg sandwich","bread"]
       },
       {
         "name": "Bluebery OverNight Oats",
@@ -324,7 +324,7 @@
         "serving": "1 serving",
         "rate":4.6,
         "extra": "",
-        "keyword":["overnight oats","oats","blueberry"]
+        "keywords":["overnight oats","oats","blueberry"]
       },
       {
         "name": "Pumpkin Pie OverNight Oats",
@@ -353,7 +353,7 @@
         "serving": "1 serving",
         "rate":4.6,
         "extra": "",
-        "keyword":["overnight oats","oats","pumkin"]
+        "keywords":["overnight oats","oats","pumpkin"]
       }
     ]
 }
