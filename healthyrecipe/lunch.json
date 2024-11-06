@@ -45,6 +45,7 @@
         "name": "Egg Fried Rice",
         "image": "https://divyanshu-950.github.io/RecipeAPI/healthyrecipe/img/frice.jpg",
         "description": "One of the best things about this top-rated dish is how easy it is to customize. Whatever you have on hand goes — chicken, shrimp, salmon, and kimchi all make mouthwatering additions to fried rice. Play and create one-of-a-kind fried rice dishes whether you're a vegetarian or meat lover.",
+    
         "ingredients": {
           "1": "⅔ cup chopped baby carrots",
           "2": "½ cup frozen green peas",
@@ -74,6 +75,7 @@
         "name": "Dal Khichdi",
         "image": "https://divyanshu-950.github.io/RecipeAPI/healthyrecipe/img/kh.jpg",
         "description": "Indian Khichdi is one of my favourite comfort food. It is an easy-to-cook, wholesome, fulfilling meal that takes less than 30 minutes to prepare. You can cook it in a pressure cooker or an instant pot.",
+   
         "ingredients": {
           "1": "Millet(Jowar/Ragi",
           "2": "Lentils(yellow moong & pink masoor)",
